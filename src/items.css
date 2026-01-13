@@ -1,0 +1,5231 @@
+i.icon:before {
+  width: 48px;
+  height: 48px;
+  transform: scale(1.5);
+  transform-origin: top left;
+  position: absolute;
+  content: '';
+  background: url('./assets/images/sprite.webp') no-repeat;
+  image-rendering: crisp-edges;
+  background-position: 48px 48px;
+  
+}
+i.i1:before {
+  background-position: -0 -0;
+}
+i.i2:before {
+  background-position: -48px -0;
+}
+i.i3:before {
+  background-position: -96px -0;
+}
+i.i4:before {
+  background-position: -144px -0;
+}
+i.i5:before {
+  background-position: -192px -0;
+}
+i.i6:before {
+  background-position: -240px -0;
+}
+i.i7:before {
+  background-position: -288px -0;
+}
+i.i8:before {
+  background-position: -336px -0;
+}
+i.i9:before {
+  background-position: -384px -0;
+}
+i.i10:before {
+  background-position: -432px -0;
+}
+i.i11:before {
+  background-position: -480px -0;
+}
+i.i12:before {
+  background-position: -528px -0;
+}
+i.i13:before {
+  background-position: -576px -0;
+}
+i.i14:before {
+  background-position: -624px -0;
+}
+i.i15:before {
+  background-position: -672px -0;
+}
+i.i16:before {
+  background-position: -720px -0;
+}
+i.i17:before {
+  background-position: -768px -0;
+}
+i.i18:before {
+  background-position: -816px -0;
+}
+i.i19:before {
+  background-position: -864px -0;
+}
+i.i20:before {
+  background-position: -912px -0;
+}
+i.i21:before {
+  background-position: -960px -0;
+}
+i.i22:before {
+  background-position: -1008px -0;
+}
+i.i23:before {
+  background-position: -1056px -0;
+}
+i.i24:before {
+  background-position: -1104px -0;
+}
+i.i25:before {
+  background-position: -1152px -0;
+}
+i.i26:before {
+  background-position: -1200px -0;
+}
+i.i27:before {
+  background-position: -1248px -0;
+}
+i.i28:before {
+  background-position: -1296px -0;
+}
+i.i29:before {
+  background-position: -1344px -0;
+}
+i.i30:before {
+  background-position: -1392px -0;
+}
+i.i31:before {
+  background-position: -0 -48px;
+}
+i.i32:before {
+  background-position: -48px -48px;
+}
+i.i33:before {
+  background-position: -96px -48px;
+}
+i.i34:before {
+  background-position: -144px -48px;
+}
+i.i35:before {
+  background-position: -192px -48px;
+}
+i.i36:before {
+  background-position: -240px -48px;
+}
+i.i37:before {
+  background-position: -288px -48px;
+}
+i.i38:before {
+  background-position: -336px -48px;
+}
+i.i39:before {
+  background-position: -384px -48px;
+}
+i.i40:before {
+  background-position: -432px -48px;
+}
+i.i41:before {
+  background-position: -480px -48px;
+}
+i.i42:before {
+  background-position: -528px -48px;
+}
+i.i43:before {
+  background-position: -576px -48px;
+}
+i.i44:before {
+  background-position: -624px -48px;
+}
+i.i45:before {
+  background-position: -672px -48px;
+}
+i.i46:before {
+  background-position: -720px -48px;
+}
+i.i47:before {
+  background-position: -768px -48px;
+}
+i.i48:before {
+  background-position: -816px -48px;
+}
+i.i49:before {
+  background-position: -864px -48px;
+}
+i.i50:before {
+  background-position: -912px -48px;
+}
+i.i51:before {
+  background-position: -960px -48px;
+}
+i.i52:before {
+  background-position: -1008px -48px;
+}
+i.i53:before {
+  background-position: -1056px -48px;
+}
+i.i54:before {
+  background-position: -1104px -48px;
+}
+i.i55:before {
+  background-position: -1152px -48px;
+}
+i.i56:before {
+  background-position: -1200px -48px;
+}
+i.i57:before {
+  background-position: -1248px -48px;
+}
+i.i58:before {
+  background-position: -1296px -48px;
+}
+i.i59:before {
+  background-position: -1344px -48px;
+}
+i.i60:before {
+  background-position: -1392px -48px;
+}
+i.i61:before {
+  background-position: -0 -96px;
+}
+i.i62:before {
+  background-position: -48px -96px;
+}
+i.i63:before {
+  background-position: -96px -96px;
+}
+i.i64:before {
+  background-position: -144px -96px;
+}
+i.i65:before {
+  background-position: -192px -96px;
+}
+i.i66:before {
+  background-position: -240px -96px;
+}
+i.i67:before {
+  background-position: -288px -96px;
+}
+i.i68:before {
+  background-position: -336px -96px;
+}
+i.i69:before {
+  background-position: -384px -96px;
+}
+i.i70:before {
+  background-position: -432px -96px;
+}
+i.i71:before {
+  background-position: -480px -96px;
+}
+i.i72:before {
+  background-position: -528px -96px;
+}
+i.i73:before {
+  background-position: -576px -96px;
+}
+i.i74:before {
+  background-position: -624px -96px;
+}
+i.i75:before {
+  background-position: -672px -96px;
+}
+i.i76:before {
+  background-position: -720px -96px;
+}
+i.i77:before {
+  background-position: -768px -96px;
+}
+i.i78:before {
+  background-position: -816px -96px;
+}
+i.i79:before {
+  background-position: -864px -96px;
+}
+i.i80:before {
+  background-position: -912px -96px;
+}
+i.i81:before {
+  background-position: -960px -96px;
+}
+i.i82:before {
+  background-position: -1008px -96px;
+}
+i.i83:before {
+  background-position: -1056px -96px;
+}
+i.i84:before {
+  background-position: -1104px -96px;
+}
+i.i85:before {
+  background-position: -1152px -96px;
+}
+i.i86:before {
+  background-position: -1200px -96px;
+}
+i.i87:before {
+  background-position: -1248px -96px;
+}
+i.i88:before {
+  background-position: -1296px -96px;
+}
+i.i89:before {
+  background-position: -1344px -96px;
+}
+i.i90:before {
+  background-position: -1392px -96px;
+}
+i.i91:before {
+  background-position: -0 -144px;
+}
+i.i92:before {
+  background-position: -48px -144px;
+}
+i.i93:before {
+  background-position: -96px -144px;
+}
+i.i94:before {
+  background-position: -144px -144px;
+}
+i.i95:before {
+  background-position: -192px -144px;
+}
+i.i96:before {
+  background-position: -240px -144px;
+}
+i.i97:before {
+  background-position: -288px -144px;
+}
+i.i98:before {
+  background-position: -336px -144px;
+}
+i.i99:before {
+  background-position: -384px -144px;
+}
+i.i100:before {
+  background-position: -432px -144px;
+}
+i.i101:before {
+  background-position: -480px -144px;
+}
+i.i102:before {
+  background-position: -528px -144px;
+}
+i.i103:before {
+  background-position: -576px -144px;
+}
+i.i104:before {
+  background-position: -624px -144px;
+}
+i.i105:before {
+  background-position: -672px -144px;
+}
+i.i106:before {
+  background-position: -720px -144px;
+}
+i.i107:before {
+  background-position: -768px -144px;
+}
+i.i108:before {
+  background-position: -816px -144px;
+}
+i.i109:before {
+  background-position: -864px -144px;
+}
+i.i110:before {
+  background-position: -912px -144px;
+}
+i.i111:before {
+  background-position: -960px -144px;
+}
+i.i112:before {
+  background-position: -1008px -144px;
+}
+i.i113:before {
+  background-position: -1056px -144px;
+}
+i.i114:before {
+  background-position: -1104px -144px;
+}
+i.i115:before {
+  background-position: -1152px -144px;
+}
+i.i116:before {
+  background-position: -1200px -144px;
+}
+i.i117:before {
+  background-position: -1248px -144px;
+}
+i.i118:before {
+  background-position: -1296px -144px;
+}
+i.i119:before {
+  background-position: -1344px -144px;
+}
+i.i120:before {
+  background-position: -1392px -144px;
+}
+i.i121:before {
+  background-position: -0 -192px;
+}
+i.i122:before {
+  background-position: -48px -192px;
+}
+i.i123:before {
+  background-position: -96px -192px;
+}
+i.i124:before {
+  background-position: -144px -192px;
+}
+i.i125:before {
+  background-position: -192px -192px;
+}
+i.i126:before {
+  background-position: -240px -192px;
+}
+i.i127:before {
+  background-position: -288px -192px;
+}
+i.i128:before {
+  background-position: -336px -192px;
+}
+i.i129:before {
+  background-position: -384px -192px;
+}
+i.i130:before {
+  background-position: -432px -192px;
+}
+i.i131:before {
+  background-position: -480px -192px;
+}
+i.i132:before {
+  background-position: -528px -192px;
+}
+i.i133:before {
+  background-position: -576px -192px;
+}
+i.i134:before {
+  background-position: -624px -192px;
+}
+i.i135:before {
+  background-position: -672px -192px;
+}
+i.i136:before {
+  background-position: -720px -192px;
+}
+i.i137:before {
+  background-position: -768px -192px;
+}
+i.i138:before {
+  background-position: -816px -192px;
+}
+i.i139:before {
+  background-position: -864px -192px;
+}
+i.i140:before {
+  background-position: -912px -192px;
+}
+i.i141:before {
+  background-position: -960px -192px;
+}
+i.i142:before {
+  background-position: -1008px -192px;
+}
+i.i143:before {
+  background-position: -1056px -192px;
+}
+i.i144:before {
+  background-position: -1104px -192px;
+}
+i.i145:before {
+  background-position: -1152px -192px;
+}
+i.i146:before {
+  background-position: -1200px -192px;
+}
+i.i147:before {
+  background-position: -1248px -192px;
+}
+i.i148:before {
+  background-position: -1296px -192px;
+}
+i.i149:before {
+  background-position: -1344px -192px;
+}
+i.i150:before {
+  background-position: -1392px -192px;
+}
+i.i151:before {
+  background-position: -0 -240px;
+}
+i.i152:before {
+  background-position: -48px -240px;
+}
+i.i153:before {
+  background-position: -96px -240px;
+}
+i.i154:before {
+  background-position: -144px -240px;
+}
+i.i155:before {
+  background-position: -192px -240px;
+}
+i.i156:before {
+  background-position: -240px -240px;
+}
+i.i157:before {
+  background-position: -288px -240px;
+}
+i.i158:before {
+  background-position: -336px -240px;
+}
+i.i159:before {
+  background-position: -384px -240px;
+}
+i.i160:before {
+  background-position: -432px -240px;
+}
+i.i161:before {
+  background-position: -480px -240px;
+}
+i.i162:before {
+  background-position: -528px -240px;
+}
+i.i163:before {
+  background-position: -576px -240px;
+}
+i.i164:before {
+  background-position: -624px -240px;
+}
+i.i165:before {
+  background-position: -672px -240px;
+}
+i.i166:before {
+  background-position: -720px -240px;
+}
+i.i167:before {
+  background-position: -768px -240px;
+}
+i.i168:before {
+  background-position: -816px -240px;
+}
+i.i169:before {
+  background-position: -864px -240px;
+}
+i.i170:before {
+  background-position: -912px -240px;
+}
+i.i171:before {
+  background-position: -960px -240px;
+}
+i.i172:before {
+  background-position: -1008px -240px;
+}
+i.i173:before {
+  background-position: -1056px -240px;
+}
+i.i174:before {
+  background-position: -1104px -240px;
+}
+i.i175:before {
+  background-position: -1152px -240px;
+}
+i.i176:before {
+  background-position: -1200px -240px;
+}
+i.i177:before {
+  background-position: -1248px -240px;
+}
+i.i178:before {
+  background-position: -1296px -240px;
+}
+i.i179:before {
+  background-position: -1344px -240px;
+}
+i.i180:before {
+  background-position: -1392px -240px;
+}
+i.i181:before {
+  background-position: -0 -288px;
+}
+i.i182:before {
+  background-position: -48px -288px;
+}
+i.i183:before {
+  background-position: -96px -288px;
+}
+i.i184:before {
+  background-position: -144px -288px;
+}
+i.i185:before {
+  background-position: -192px -288px;
+}
+i.i186:before {
+  background-position: -240px -288px;
+}
+i.i187:before {
+  background-position: -288px -288px;
+}
+i.i188:before {
+  background-position: -336px -288px;
+}
+i.i189:before {
+  background-position: -384px -288px;
+}
+i.i190:before {
+  background-position: -432px -288px;
+}
+i.i191:before {
+  background-position: -480px -288px;
+}
+i.i192:before {
+  background-position: -528px -288px;
+}
+i.i193:before {
+  background-position: -576px -288px;
+}
+i.i194:before {
+  background-position: -624px -288px;
+}
+i.i195:before {
+  background-position: -672px -288px;
+}
+i.i196:before {
+  background-position: -720px -288px;
+}
+i.i197:before {
+  background-position: -768px -288px;
+}
+i.i198:before {
+  background-position: -816px -288px;
+}
+i.i199:before {
+  background-position: -864px -288px;
+}
+i.i200:before {
+  background-position: -912px -288px;
+}
+i.i201:before {
+  background-position: -960px -288px;
+}
+i.i202:before {
+  background-position: -1008px -288px;
+}
+i.i203:before {
+  background-position: -1056px -288px;
+}
+i.i204:before {
+  background-position: -1104px -288px;
+}
+i.i205:before {
+  background-position: -1152px -288px;
+}
+i.i206:before {
+  background-position: -1200px -288px;
+}
+i.i207:before {
+  background-position: -1248px -288px;
+}
+i.i208:before {
+  background-position: -1296px -288px;
+}
+i.i209:before {
+  background-position: -1344px -288px;
+}
+i.i210:before {
+  background-position: -1392px -288px;
+}
+i.i211:before {
+  background-position: -0 -336px;
+}
+i.i212:before {
+  background-position: -48px -336px;
+}
+i.i213:before {
+  background-position: -96px -336px;
+}
+i.i214:before {
+  background-position: -144px -336px;
+}
+i.i215:before {
+  background-position: -192px -336px;
+}
+i.i216:before {
+  background-position: -240px -336px;
+}
+i.i217:before {
+  background-position: -288px -336px;
+}
+i.i218:before {
+  background-position: -336px -336px;
+}
+i.i219:before {
+  background-position: -384px -336px;
+}
+i.i220:before {
+  background-position: -432px -336px;
+}
+i.i221:before {
+  background-position: -480px -336px;
+}
+i.i222:before {
+  background-position: -528px -336px;
+}
+i.i223:before {
+  background-position: -576px -336px;
+}
+i.i224:before {
+  background-position: -624px -336px;
+}
+i.i225:before {
+  background-position: -672px -336px;
+}
+i.i226:before {
+  background-position: -720px -336px;
+}
+i.i227:before {
+  background-position: -768px -336px;
+}
+i.i228:before {
+  background-position: -816px -336px;
+}
+i.i229:before {
+  background-position: -864px -336px;
+}
+i.i230:before {
+  background-position: -912px -336px;
+}
+i.i231:before {
+  background-position: -960px -336px;
+}
+i.i232:before {
+  background-position: -1008px -336px;
+}
+i.i233:before {
+  background-position: -1056px -336px;
+}
+i.i234:before {
+  background-position: -1104px -336px;
+}
+i.i235:before {
+  background-position: -1152px -336px;
+}
+i.i236:before {
+  background-position: -1200px -336px;
+}
+i.i237:before {
+  background-position: -1248px -336px;
+}
+i.i238:before {
+  background-position: -1296px -336px;
+}
+i.i239:before {
+  background-position: -1344px -336px;
+}
+i.i240:before {
+  background-position: -1392px -336px;
+}
+i.i241:before {
+  background-position: -0 -384px;
+}
+i.i242:before {
+  background-position: -48px -384px;
+}
+i.i243:before {
+  background-position: -96px -384px;
+}
+i.i244:before {
+  background-position: -144px -384px;
+}
+i.i245:before {
+  background-position: -192px -384px;
+}
+i.i246:before {
+  background-position: -240px -384px;
+}
+i.i247:before {
+  background-position: -288px -384px;
+}
+i.i248:before {
+  background-position: -336px -384px;
+}
+i.i249:before {
+  background-position: -384px -384px;
+}
+i.i250:before {
+  background-position: -432px -384px;
+}
+i.i251:before {
+  background-position: -480px -384px;
+}
+i.i252:before {
+  background-position: -528px -384px;
+}
+i.i253:before {
+  background-position: -576px -384px;
+}
+i.i254:before {
+  background-position: -624px -384px;
+}
+i.i255:before {
+  background-position: -672px -384px;
+}
+i.i256:before {
+  background-position: -720px -384px;
+}
+i.i257:before {
+  background-position: -768px -384px;
+}
+i.i258:before {
+  background-position: -816px -384px;
+}
+i.i259:before {
+  background-position: -864px -384px;
+}
+i.i260:before {
+  background-position: -912px -384px;
+}
+i.i261:before {
+  background-position: -960px -384px;
+}
+i.i262:before {
+  background-position: -1008px -384px;
+}
+i.i263:before {
+  background-position: -1056px -384px;
+}
+i.i264:before {
+  background-position: -1104px -384px;
+}
+i.i265:before {
+  background-position: -1152px -384px;
+}
+i.i266:before {
+  background-position: -1200px -384px;
+}
+i.i267:before {
+  background-position: -1248px -384px;
+}
+i.i268:before {
+  background-position: -1296px -384px;
+}
+i.i269:before {
+  background-position: -1344px -384px;
+}
+i.i270:before {
+  background-position: -1392px -384px;
+}
+i.i271:before {
+  background-position: -0 -432px;
+}
+i.i272:before {
+  background-position: -48px -432px;
+}
+i.i273:before {
+  background-position: -96px -432px;
+}
+i.i274:before {
+  background-position: -144px -432px;
+}
+i.i275:before {
+  background-position: -192px -432px;
+}
+i.i276:before {
+  background-position: -240px -432px;
+}
+i.i277:before {
+  background-position: -288px -432px;
+}
+i.i278:before {
+  background-position: -336px -432px;
+}
+i.i279:before {
+  background-position: -384px -432px;
+}
+i.i280:before {
+  background-position: -432px -432px;
+}
+i.i281:before {
+  background-position: -480px -432px;
+}
+i.i282:before {
+  background-position: -528px -432px;
+}
+i.i283:before {
+  background-position: -576px -432px;
+}
+i.i284:before {
+  background-position: -624px -432px;
+}
+i.i285:before {
+  background-position: -672px -432px;
+}
+i.i286:before {
+  background-position: -720px -432px;
+}
+i.i288:before {
+  background-position: -768px -432px;
+}
+i.i289:before {
+  background-position: -816px -432px;
+}
+i.i290:before {
+  background-position: -864px -432px;
+}
+i.i291:before {
+  background-position: -912px -432px;
+}
+i.i292:before {
+  background-position: -960px -432px;
+}
+i.i293:before {
+  background-position: -1008px -432px;
+}
+i.i294:before {
+  background-position: -1056px -432px;
+}
+i.i295:before {
+  background-position: -1104px -432px;
+}
+i.i296:before {
+  background-position: -1152px -432px;
+}
+i.i297:before {
+  background-position: -1200px -432px;
+}
+i.i298:before {
+  background-position: -1248px -432px;
+}
+i.i299:before {
+  background-position: -1296px -432px;
+}
+i.i300:before {
+  background-position: -1344px -432px;
+}
+i.i301:before {
+  background-position: -1392px -432px;
+}
+i.i302:before {
+  background-position: -0 -480px;
+}
+i.i303:before {
+  background-position: -48px -480px;
+}
+i.i304:before {
+  background-position: -96px -480px;
+}
+i.i305:before {
+  background-position: -144px -480px;
+}
+i.i306:before {
+  background-position: -192px -480px;
+}
+i.i307:before {
+  background-position: -240px -480px;
+}
+i.i308:before {
+  background-position: -288px -480px;
+}
+i.i309:before {
+  background-position: -336px -480px;
+}
+i.i310:before {
+  background-position: -384px -480px;
+}
+i.i311:before {
+  background-position: -432px -480px;
+}
+i.i312:before {
+  background-position: -480px -480px;
+}
+i.i313:before {
+  background-position: -528px -480px;
+}
+i.i314:before {
+  background-position: -576px -480px;
+}
+i.i315:before {
+  background-position: -624px -480px;
+}
+i.i316:before {
+  background-position: -672px -480px;
+}
+i.i317:before {
+  background-position: -720px -480px;
+}
+i.i318:before {
+  background-position: -768px -480px;
+}
+i.i319:before {
+  background-position: -816px -480px;
+}
+i.i320:before {
+  background-position: -864px -480px;
+}
+i.i321:before {
+  background-position: -912px -480px;
+}
+i.i322:before {
+  background-position: -960px -480px;
+}
+i.i323:before {
+  background-position: -1008px -480px;
+}
+i.i324:before {
+  background-position: -1056px -480px;
+}
+i.i325:before {
+  background-position: -1104px -480px;
+}
+i.i326:before {
+  background-position: -1152px -480px;
+}
+i.i327:before {
+  background-position: -1200px -480px;
+}
+i.i328:before {
+  background-position: -1248px -480px;
+}
+i.i329:before {
+  background-position: -1296px -480px;
+}
+i.i330:before {
+  background-position: -1344px -480px;
+}
+i.i331:before {
+  background-position: -1392px -480px;
+}
+i.i332:before {
+  background-position: -0 -528px;
+}
+i.i333:before {
+  background-position: -48px -528px;
+}
+i.i334:before {
+  background-position: -96px -528px;
+}
+i.i335:before {
+  background-position: -144px -528px;
+}
+i.i336:before {
+  background-position: -192px -528px;
+}
+i.i337:before {
+  background-position: -240px -528px;
+}
+i.i338:before {
+  background-position: -288px -528px;
+}
+i.i339:before {
+  background-position: -336px -528px;
+}
+i.i340:before {
+  background-position: -384px -528px;
+}
+i.i341:before {
+  background-position: -432px -528px;
+}
+i.i342:before {
+  background-position: -480px -528px;
+}
+i.i343:before {
+  background-position: -528px -528px;
+}
+i.i344:before {
+  background-position: -576px -528px;
+}
+i.i345:before {
+  background-position: -624px -528px;
+}
+i.i346:before {
+  background-position: -672px -528px;
+}
+i.i347:before {
+  background-position: -720px -528px;
+}
+i.i348:before {
+  background-position: -768px -528px;
+}
+i.i349:before {
+  background-position: -816px -528px;
+}
+i.i350:before {
+  background-position: -864px -528px;
+}
+i.i351:before {
+  background-position: -912px -528px;
+}
+i.i352:before {
+  background-position: -960px -528px;
+}
+i.i353:before {
+  background-position: -1008px -528px;
+}
+i.i354:before {
+  background-position: -1056px -528px;
+}
+i.i355:before {
+  background-position: -1104px -528px;
+}
+i.i356:before {
+  background-position: -1152px -528px;
+}
+i.i357:before {
+  background-position: -1200px -528px;
+}
+i.i358:before {
+  background-position: -1248px -528px;
+}
+i.i359:before {
+  background-position: -1296px -528px;
+}
+i.i360:before {
+  background-position: -1344px -528px;
+}
+i.i361:before {
+  background-position: -1392px -528px;
+}
+i.i362:before {
+  background-position: -0 -576px;
+}
+i.i363:before {
+  background-position: -48px -576px;
+}
+i.i364:before {
+  background-position: -96px -576px;
+}
+i.i365:before {
+  background-position: -144px -576px;
+}
+i.i366:before {
+  background-position: -192px -576px;
+}
+i.i367:before {
+  background-position: -240px -576px;
+}
+i.i368:before {
+  background-position: -288px -576px;
+}
+i.i369:before {
+  background-position: -336px -576px;
+}
+i.i370:before {
+  background-position: -384px -576px;
+}
+i.i371:before {
+  background-position: -432px -576px;
+}
+i.i372:before {
+  background-position: -480px -576px;
+}
+i.i373:before {
+  background-position: -528px -576px;
+}
+i.i374:before {
+  background-position: -576px -576px;
+}
+i.i375:before {
+  background-position: -624px -576px;
+}
+i.i376:before {
+  background-position: -672px -576px;
+}
+i.i377:before {
+  background-position: -720px -576px;
+}
+i.i378:before {
+  background-position: -768px -576px;
+}
+i.i379:before {
+  background-position: -816px -576px;
+}
+i.i380:before {
+  background-position: -864px -576px;
+}
+i.i381:before {
+  background-position: -912px -576px;
+}
+i.i382:before {
+  background-position: -960px -576px;
+}
+i.i383:before {
+  background-position: -1008px -576px;
+}
+i.i384:before {
+  background-position: -1056px -576px;
+}
+i.i385:before {
+  background-position: -1104px -576px;
+}
+i.i386:before {
+  background-position: -1152px -576px;
+}
+i.i387:before {
+  background-position: -1200px -576px;
+}
+i.i388:before {
+  background-position: -1248px -576px;
+}
+i.i389:before {
+  background-position: -1296px -576px;
+}
+i.i390:before {
+  background-position: -1344px -576px;
+}
+i.i391:before {
+  background-position: -1392px -576px;
+}
+i.i392:before {
+  background-position: -0 -624px;
+}
+i.i393:before {
+  background-position: -48px -624px;
+}
+i.i394:before {
+  background-position: -96px -624px;
+}
+i.i395:before {
+  background-position: -144px -624px;
+}
+i.i396:before {
+  background-position: -192px -624px;
+}
+i.i397:before {
+  background-position: -240px -624px;
+}
+i.i398:before {
+  background-position: -288px -624px;
+}
+i.i399:before {
+  background-position: -336px -624px;
+}
+i.i400:before {
+  background-position: -384px -624px;
+}
+i.i401:before {
+  background-position: -432px -624px;
+}
+i.i402:before {
+  background-position: -480px -624px;
+}
+i.i403:before {
+  background-position: -528px -624px;
+}
+i.i404:before {
+  background-position: -576px -624px;
+}
+i.i405:before {
+  background-position: -624px -624px;
+}
+i.i406:before {
+  background-position: -672px -624px;
+}
+i.i407:before {
+  background-position: -720px -624px;
+}
+i.i408:before {
+  background-position: -768px -624px;
+}
+i.i409:before {
+  background-position: -816px -624px;
+}
+i.i410:before {
+  background-position: -864px -624px;
+}
+i.i411:before {
+  background-position: -912px -624px;
+}
+i.i412:before {
+  background-position: -960px -624px;
+}
+i.i413:before {
+  background-position: -1008px -624px;
+}
+i.i414:before {
+  background-position: -1056px -624px;
+}
+i.i415:before {
+  background-position: -1104px -624px;
+}
+i.i416:before {
+  background-position: -1152px -624px;
+}
+i.i417:before {
+  background-position: -1200px -624px;
+}
+i.i418:before {
+  background-position: -1248px -624px;
+}
+i.i419:before {
+  background-position: -1296px -624px;
+}
+i.i420:before {
+  background-position: -1344px -624px;
+}
+i.i421:before {
+  background-position: -1392px -624px;
+}
+i.i422:before {
+  background-position: -0 -672px;
+}
+i.i423:before {
+  background-position: -48px -672px;
+}
+i.i424:before {
+  background-position: -96px -672px;
+}
+i.i425:before {
+  background-position: -144px -672px;
+}
+i.i426:before {
+  background-position: -192px -672px;
+}
+i.i427:before {
+  background-position: -240px -672px;
+}
+i.i428:before {
+  background-position: -288px -672px;
+}
+i.i429:before {
+  background-position: -336px -672px;
+}
+i.i430:before {
+  background-position: -384px -672px;
+}
+i.i431:before {
+  background-position: -432px -672px;
+}
+i.i432:before {
+  background-position: -480px -672px;
+}
+i.i433:before {
+  background-position: -528px -672px;
+}
+i.i434:before {
+  background-position: -576px -672px;
+}
+i.i435:before {
+  background-position: -624px -672px;
+}
+i.i436:before {
+  background-position: -672px -672px;
+}
+i.i437:before {
+  background-position: -720px -672px;
+}
+i.i438:before {
+  background-position: -768px -672px;
+}
+i.i439:before {
+  background-position: -816px -672px;
+}
+i.i440:before {
+  background-position: -864px -672px;
+}
+i.i441:before {
+  background-position: -912px -672px;
+}
+i.i442:before {
+  background-position: -960px -672px;
+}
+i.i443:before {
+  background-position: -1008px -672px;
+}
+i.i444:before {
+  background-position: -1056px -672px;
+}
+i.i445:before {
+  background-position: -1104px -672px;
+}
+i.i446:before {
+  background-position: -1152px -672px;
+}
+i.i447:before {
+  background-position: -1200px -672px;
+}
+i.i448:before {
+  background-position: -1248px -672px;
+}
+i.i449:before {
+  background-position: -1296px -672px;
+}
+i.i450:before {
+  background-position: -1344px -672px;
+}
+i.i451:before {
+  background-position: -1392px -672px;
+}
+i.i452:before {
+  background-position: -0 -720px;
+}
+i.i453:before {
+  background-position: -48px -720px;
+}
+i.i454:before {
+  background-position: -96px -720px;
+}
+i.i455:before {
+  background-position: -144px -720px;
+}
+i.i456:before {
+  background-position: -192px -720px;
+}
+i.i457:before {
+  background-position: -240px -720px;
+}
+i.i458:before {
+  background-position: -288px -720px;
+}
+i.i459:before {
+  background-position: -336px -720px;
+}
+i.i460:before {
+  background-position: -384px -720px;
+}
+i.i461:before {
+  background-position: -432px -720px;
+}
+i.i462:before {
+  background-position: -480px -720px;
+}
+i.i463:before {
+  background-position: -528px -720px;
+}
+i.i464:before {
+  background-position: -576px -720px;
+}
+i.i465:before {
+  background-position: -624px -720px;
+}
+i.i466:before {
+  background-position: -672px -720px;
+}
+i.i467:before {
+  background-position: -720px -720px;
+}
+i.i468:before {
+  background-position: -768px -720px;
+}
+i.i469:before {
+  background-position: -816px -720px;
+}
+i.i470:before {
+  background-position: -864px -720px;
+}
+i.i471:before {
+  background-position: -912px -720px;
+}
+i.i472:before {
+  background-position: -960px -720px;
+}
+i.i473:before {
+  background-position: -1008px -720px;
+}
+i.i474:before {
+  background-position: -1056px -720px;
+}
+i.i475:before {
+  background-position: -1104px -720px;
+}
+i.i476:before {
+  background-position: -1152px -720px;
+}
+i.i477:before {
+  background-position: -1200px -720px;
+}
+i.i478:before {
+  background-position: -1248px -720px;
+}
+i.i479:before {
+  background-position: -1296px -720px;
+}
+i.i480:before {
+  background-position: -1344px -720px;
+}
+i.i481:before {
+  background-position: -1392px -720px;
+}
+i.i482:before {
+  background-position: -0 -768px;
+}
+i.i483:before {
+  background-position: -48px -768px;
+}
+i.i484:before {
+  background-position: -96px -768px;
+}
+i.i485:before {
+  background-position: -144px -768px;
+}
+i.i486:before {
+  background-position: -192px -768px;
+}
+i.i487:before {
+  background-position: -240px -768px;
+}
+i.i488:before {
+  background-position: -288px -768px;
+}
+i.i489:before {
+  background-position: -336px -768px;
+}
+i.i490:before {
+  background-position: -384px -768px;
+}
+i.i491:before {
+  background-position: -432px -768px;
+}
+i.i492:before {
+  background-position: -480px -768px;
+}
+i.i493:before {
+  background-position: -528px -768px;
+}
+i.i494:before {
+  background-position: -576px -768px;
+}
+i.i495:before {
+  background-position: -624px -768px;
+}
+i.i496:before {
+  background-position: -672px -768px;
+}
+i.i497:before {
+  background-position: -720px -768px;
+}
+i.i498:before {
+  background-position: -768px -768px;
+}
+i.i499:before {
+  background-position: -816px -768px;
+}
+i.i500:before {
+  background-position: -864px -768px;
+}
+i.i501:before {
+  background-position: -912px -768px;
+}
+i.i502:before {
+  background-position: -960px -768px;
+}
+i.i503:before {
+  background-position: -1008px -768px;
+}
+i.i504:before {
+  background-position: -1056px -768px;
+}
+i.i505:before {
+  background-position: -1104px -768px;
+}
+i.i506:before {
+  background-position: -1152px -768px;
+}
+i.i507:before {
+  background-position: -1200px -768px;
+}
+i.i508:before {
+  background-position: -1248px -768px;
+}
+i.i509:before {
+  background-position: -1296px -768px;
+}
+i.i510:before {
+  background-position: -1344px -768px;
+}
+i.i511:before {
+  background-position: -1392px -768px;
+}
+i.i512:before {
+  background-position: -0 -816px;
+}
+i.i513:before {
+  background-position: -48px -816px;
+}
+i.i514:before {
+  background-position: -96px -816px;
+}
+i.i515:before {
+  background-position: -144px -816px;
+}
+i.i516:before {
+  background-position: -192px -816px;
+}
+i.i517:before {
+  background-position: -240px -816px;
+}
+i.i518:before {
+  background-position: -288px -816px;
+}
+i.i519:before {
+  background-position: -336px -816px;
+}
+i.i520:before {
+  background-position: -384px -816px;
+}
+i.i521:before {
+  background-position: -432px -816px;
+}
+i.i522:before {
+  background-position: -480px -816px;
+}
+i.i523:before {
+  background-position: -528px -816px;
+}
+i.i524:before {
+  background-position: -576px -816px;
+}
+i.i525:before {
+  background-position: -624px -816px;
+}
+i.i526:before {
+  background-position: -672px -816px;
+}
+i.i527:before {
+  background-position: -720px -816px;
+}
+i.i528:before {
+  background-position: -768px -816px;
+}
+i.i529:before {
+  background-position: -816px -816px;
+}
+i.i530:before {
+  background-position: -864px -816px;
+}
+i.i531:before {
+  background-position: -912px -816px;
+}
+i.i532:before {
+  background-position: -960px -816px;
+}
+i.i533:before {
+  background-position: -1008px -816px;
+}
+i.i534:before {
+  background-position: -1056px -816px;
+}
+i.i535:before {
+  background-position: -1104px -816px;
+}
+i.i536:before {
+  background-position: -1152px -816px;
+}
+i.i537:before {
+  background-position: -1200px -816px;
+}
+i.i538:before {
+  background-position: -1248px -816px;
+}
+i.i539:before {
+  background-position: -1296px -816px;
+}
+i.i540:before {
+  background-position: -1344px -816px;
+}
+i.i541:before {
+  background-position: -1392px -816px;
+}
+i.i542:before {
+  background-position: -0 -864px;
+}
+i.i543:before {
+  background-position: -48px -864px;
+}
+i.i544:before {
+  background-position: -96px -864px;
+}
+i.i545:before {
+  background-position: -144px -864px;
+}
+i.i546:before {
+  background-position: -192px -864px;
+}
+i.i547:before {
+  background-position: -240px -864px;
+}
+i.i548:before {
+  background-position: -288px -864px;
+}
+i.i549:before {
+  background-position: -336px -864px;
+}
+i.i550:before {
+  background-position: -384px -864px;
+}
+i.i551:before {
+  background-position: -432px -864px;
+}
+i.i552:before {
+  background-position: -480px -864px;
+}
+i.i553:before {
+  background-position: -528px -864px;
+}
+i.i554:before {
+  background-position: -576px -864px;
+}
+i.i555:before {
+  background-position: -624px -864px;
+}
+i.i556:before {
+  background-position: -672px -864px;
+}
+i.i557:before {
+  background-position: -720px -864px;
+}
+i.i558:before {
+  background-position: -768px -864px;
+}
+i.i559:before {
+  background-position: -816px -864px;
+}
+i.i560:before {
+  background-position: -864px -864px;
+}
+i.i561:before {
+  background-position: -912px -864px;
+}
+i.i562:before {
+  background-position: -960px -864px;
+}
+i.i563:before {
+  background-position: -1008px -864px;
+}
+i.i564:before {
+  background-position: -1056px -864px;
+}
+i.i565:before {
+  background-position: -1104px -864px;
+}
+i.i566:before {
+  background-position: -1152px -864px;
+}
+i.i567:before {
+  background-position: -1200px -864px;
+}
+i.i568:before {
+  background-position: -1248px -864px;
+}
+i.i569:before {
+  background-position: -1296px -864px;
+}
+i.i570:before {
+  background-position: -1344px -864px;
+}
+i.i571:before {
+  background-position: -1392px -864px;
+}
+i.i572:before {
+  background-position: -0 -912px;
+}
+i.i573:before {
+  background-position: -48px -912px;
+}
+i.i574:before {
+  background-position: -96px -912px;
+}
+i.i575:before {
+  background-position: -144px -912px;
+}
+i.i576:before {
+  background-position: -192px -912px;
+}
+i.i577:before {
+  background-position: -240px -912px;
+}
+i.i578:before {
+  background-position: -288px -912px;
+}
+i.i579:before {
+  background-position: -336px -912px;
+}
+i.i580:before {
+  background-position: -384px -912px;
+}
+i.i581:before {
+  background-position: -432px -912px;
+}
+i.i582:before {
+  background-position: -480px -912px;
+}
+i.i583:before {
+  background-position: -528px -912px;
+}
+i.i584:before {
+  background-position: -576px -912px;
+}
+i.i585:before {
+  background-position: -624px -912px;
+}
+i.i586:before {
+  background-position: -672px -912px;
+}
+i.i587:before {
+  background-position: -720px -912px;
+}
+i.i588:before {
+  background-position: -768px -912px;
+}
+i.i589:before {
+  background-position: -816px -912px;
+}
+i.i590:before {
+  background-position: -864px -912px;
+}
+i.i591:before {
+  background-position: -912px -912px;
+}
+i.i592:before {
+  background-position: -960px -912px;
+}
+i.i593:before {
+  background-position: -1008px -912px;
+}
+i.i594:before {
+  background-position: -1056px -912px;
+}
+i.i595:before {
+  background-position: -1104px -912px;
+}
+i.i596:before {
+  background-position: -1152px -912px;
+}
+i.i597:before {
+  background-position: -1200px -912px;
+}
+i.i598:before {
+  background-position: -1248px -912px;
+}
+i.i599:before {
+  background-position: -1296px -912px;
+}
+i.i600:before {
+  background-position: -1344px -912px;
+}
+i.i601:before {
+  background-position: -1392px -912px;
+}
+i.i602:before {
+  background-position: -0 -960px;
+}
+i.i603:before {
+  background-position: -48px -960px;
+}
+i.i604:before {
+  background-position: -96px -960px;
+}
+i.i605:before {
+  background-position: -144px -960px;
+}
+i.i606:before {
+  background-position: -192px -960px;
+}
+i.i607:before {
+  background-position: -240px -960px;
+}
+i.i608:before {
+  background-position: -288px -960px;
+}
+i.i609:before {
+  background-position: -336px -960px;
+}
+i.i610:before {
+  background-position: -384px -960px;
+}
+i.i611:before {
+  background-position: -432px -960px;
+}
+i.i612:before {
+  background-position: -480px -960px;
+}
+i.i613:before {
+  background-position: -528px -960px;
+}
+i.i614:before {
+  background-position: -576px -960px;
+}
+i.i615:before {
+  background-position: -624px -960px;
+}
+i.i616:before {
+  background-position: -672px -960px;
+}
+i.i617:before {
+  background-position: -720px -960px;
+}
+i.i618:before {
+  background-position: -768px -960px;
+}
+i.i619:before {
+  background-position: -816px -960px;
+}
+i.i620:before {
+  background-position: -864px -960px;
+}
+i.i621:before {
+  background-position: -912px -960px;
+}
+i.i622:before {
+  background-position: -960px -960px;
+}
+i.i623:before {
+  background-position: -1008px -960px;
+}
+i.i624:before {
+  background-position: -1056px -960px;
+}
+i.i625:before {
+  background-position: -1104px -960px;
+}
+i.i626:before {
+  background-position: -1152px -960px;
+}
+i.i627:before {
+  background-position: -1200px -960px;
+}
+i.i628:before {
+  background-position: -1248px -960px;
+}
+i.i629:before {
+  background-position: -1296px -960px;
+}
+i.i630:before {
+  background-position: -1344px -960px;
+}
+i.i631:before {
+  background-position: -1392px -960px;
+}
+i.i632:before {
+  background-position: -0 -1008px;
+}
+i.i633:before {
+  background-position: -48px -1008px;
+}
+i.i634:before {
+  background-position: -96px -1008px;
+}
+i.i635:before {
+  background-position: -144px -1008px;
+}
+i.i636:before {
+  background-position: -192px -1008px;
+}
+i.i637:before {
+  background-position: -240px -1008px;
+}
+i.i638:before {
+  background-position: -288px -1008px;
+}
+i.i639:before {
+  background-position: -336px -1008px;
+}
+i.i640:before {
+  background-position: -384px -1008px;
+}
+i.i641:before {
+  background-position: -432px -1008px;
+}
+i.i642:before {
+  background-position: -480px -1008px;
+}
+i.i643:before {
+  background-position: -528px -1008px;
+}
+i.i644:before {
+  background-position: -576px -1008px;
+}
+i.i645:before {
+  background-position: -624px -1008px;
+}
+i.i646:before {
+  background-position: -672px -1008px;
+}
+i.i647:before {
+  background-position: -720px -1008px;
+}
+i.i648:before {
+  background-position: -768px -1008px;
+}
+i.i649:before {
+  background-position: -816px -1008px;
+}
+i.i650:before {
+  background-position: -864px -1008px;
+}
+i.i651:before {
+  background-position: -912px -1008px;
+}
+i.i652:before {
+  background-position: -960px -1008px;
+}
+i.i653:before {
+  background-position: -1008px -1008px;
+}
+i.i654:before {
+  background-position: -1056px -1008px;
+}
+i.i655:before {
+  background-position: -1104px -1008px;
+}
+i.i656:before {
+  background-position: -1152px -1008px;
+}
+i.i657:before {
+  background-position: -1200px -1008px;
+}
+i.i658:before {
+  background-position: -1248px -1008px;
+}
+i.i659:before {
+  background-position: -1296px -1008px;
+}
+i.i660:before {
+  background-position: -1344px -1008px;
+}
+i.i661:before {
+  background-position: -1392px -1008px;
+}
+i.i662:before {
+  background-position: -0 -1056px;
+}
+i.i663:before {
+  background-position: -48px -1056px;
+}
+i.i664:before {
+  background-position: -96px -1056px;
+}
+i.i665:before {
+  background-position: -144px -1056px;
+}
+i.i666:before {
+  background-position: -192px -1056px;
+}
+i.i667:before {
+  background-position: -240px -1056px;
+}
+i.i668:before {
+  background-position: -288px -1056px;
+}
+i.i669:before {
+  background-position: -336px -1056px;
+}
+i.i670:before {
+  background-position: -384px -1056px;
+}
+i.i671:before {
+  background-position: -432px -1056px;
+}
+i.i672:before {
+  background-position: -480px -1056px;
+}
+i.i673:before {
+  background-position: -528px -1056px;
+}
+i.i674:before {
+  background-position: -576px -1056px;
+}
+i.i675:before {
+  background-position: -624px -1056px;
+}
+i.i676:before {
+  background-position: -672px -1056px;
+}
+i.i677:before {
+  background-position: -720px -1056px;
+}
+i.i678:before {
+  background-position: -768px -1056px;
+}
+i.i679:before {
+  background-position: -816px -1056px;
+}
+i.i680:before {
+  background-position: -864px -1056px;
+}
+i.i681:before {
+  background-position: -912px -1056px;
+}
+i.i682:before {
+  background-position: -960px -1056px;
+}
+i.i683:before {
+  background-position: -1008px -1056px;
+}
+i.i684:before {
+  background-position: -1056px -1056px;
+}
+i.i685:before {
+  background-position: -1104px -1056px;
+}
+i.i686:before {
+  background-position: -1152px -1056px;
+}
+i.i687:before {
+  background-position: -1200px -1056px;
+}
+i.i688:before {
+  background-position: -1248px -1056px;
+}
+i.i689:before {
+  background-position: -1296px -1056px;
+}
+i.i690:before {
+  background-position: -1344px -1056px;
+}
+i.i691:before {
+  background-position: -1392px -1056px;
+}
+i.i692:before {
+  background-position: -0 -1104px;
+}
+i.i693:before {
+  background-position: -48px -1104px;
+}
+i.i694:before {
+  background-position: -96px -1104px;
+}
+i.i695:before {
+  background-position: -144px -1104px;
+}
+i.i696:before {
+  background-position: -192px -1104px;
+}
+i.i697:before {
+  background-position: -240px -1104px;
+}
+i.i698:before {
+  background-position: -288px -1104px;
+}
+i.i699:before {
+  background-position: -336px -1104px;
+}
+i.i700:before {
+  background-position: -384px -1104px;
+}
+i.i701:before {
+  background-position: -432px -1104px;
+}
+i.i702:before {
+  background-position: -480px -1104px;
+}
+i.i703:before {
+  background-position: -528px -1104px;
+}
+i.i704:before {
+  background-position: -576px -1104px;
+}
+i.i705:before {
+  background-position: -624px -1104px;
+}
+i.i706:before {
+  background-position: -672px -1104px;
+}
+i.i707:before {
+  background-position: -720px -1104px;
+}
+i.i708:before {
+  background-position: -768px -1104px;
+}
+i.i709:before {
+  background-position: -816px -1104px;
+}
+i.i710:before {
+  background-position: -864px -1104px;
+}
+i.i711:before {
+  background-position: -912px -1104px;
+}
+i.i712:before {
+  background-position: -960px -1104px;
+}
+i.i713:before {
+  background-position: -1008px -1104px;
+}
+i.i714:before {
+  background-position: -1056px -1104px;
+}
+i.i715:before {
+  background-position: -1104px -1104px;
+}
+i.i716:before {
+  background-position: -1152px -1104px;
+}
+i.i717:before {
+  background-position: -1200px -1104px;
+}
+i.i718:before {
+  background-position: -1248px -1104px;
+}
+i.i719:before {
+  background-position: -1296px -1104px;
+}
+i.i720:before {
+  background-position: -1344px -1104px;
+}
+i.i721:before {
+  background-position: -1392px -1104px;
+}
+i.i722:before {
+  background-position: -0 -1152px;
+}
+i.i723:before {
+  background-position: -48px -1152px;
+}
+i.i724:before {
+  background-position: -96px -1152px;
+}
+i.i725:before {
+  background-position: -144px -1152px;
+}
+i.i726:before {
+  background-position: -192px -1152px;
+}
+i.i727:before {
+  background-position: -240px -1152px;
+}
+i.i728:before {
+  background-position: -288px -1152px;
+}
+i.i729:before {
+  background-position: -336px -1152px;
+}
+i.i730:before {
+  background-position: -384px -1152px;
+}
+i.i731:before {
+  background-position: -432px -1152px;
+}
+i.i732:before {
+  background-position: -480px -1152px;
+}
+i.i733:before {
+  background-position: -528px -1152px;
+}
+i.i734:before {
+  background-position: -576px -1152px;
+}
+i.i735:before {
+  background-position: -624px -1152px;
+}
+i.i736:before {
+  background-position: -672px -1152px;
+}
+i.i737:before {
+  background-position: -720px -1152px;
+}
+i.i738:before {
+  background-position: -768px -1152px;
+}
+i.i739:before {
+  background-position: -816px -1152px;
+}
+i.i740:before {
+  background-position: -864px -1152px;
+}
+i.i741:before {
+  background-position: -912px -1152px;
+}
+i.i742:before {
+  background-position: -960px -1152px;
+}
+i.i743:before {
+  background-position: -1008px -1152px;
+}
+i.i744:before {
+  background-position: -1056px -1152px;
+}
+i.i745:before {
+  background-position: -1104px -1152px;
+}
+i.i746:before {
+  background-position: -1152px -1152px;
+}
+i.i747:before {
+  background-position: -1200px -1152px;
+}
+i.i748:before {
+  background-position: -1248px -1152px;
+}
+i.i749:before {
+  background-position: -1296px -1152px;
+}
+i.i750:before {
+  background-position: -1344px -1152px;
+}
+i.i751:before {
+  background-position: -1392px -1152px;
+}
+i.i752:before {
+  background-position: -0 -1200px;
+}
+i.i753:before {
+  background-position: -48px -1200px;
+}
+i.i754:before {
+  background-position: -96px -1200px;
+}
+i.i755:before {
+  background-position: -144px -1200px;
+}
+i.i756:before {
+  background-position: -192px -1200px;
+}
+i.i757:before {
+  background-position: -240px -1200px;
+}
+i.i758:before {
+  background-position: -288px -1200px;
+}
+i.i759:before {
+  background-position: -336px -1200px;
+}
+i.i760:before {
+  background-position: -384px -1200px;
+}
+i.i761:before {
+  background-position: -432px -1200px;
+}
+i.i762:before {
+  background-position: -480px -1200px;
+}
+i.i763:before {
+  background-position: -528px -1200px;
+}
+i.i764:before {
+  background-position: -576px -1200px;
+}
+i.i765:before {
+  background-position: -624px -1200px;
+}
+i.i766:before {
+  background-position: -672px -1200px;
+}
+i.i767:before {
+  background-position: -720px -1200px;
+}
+i.i768:before {
+  background-position: -768px -1200px;
+}
+i.i769:before {
+  background-position: -816px -1200px;
+}
+i.i770:before {
+  background-position: -864px -1200px;
+}
+i.i771:before {
+  background-position: -912px -1200px;
+}
+i.i772:before {
+  background-position: -960px -1200px;
+}
+i.i773:before {
+  background-position: -1008px -1200px;
+}
+i.i774:before {
+  background-position: -1056px -1200px;
+}
+i.i775:before {
+  background-position: -1104px -1200px;
+}
+i.i776:before {
+  background-position: -1152px -1200px;
+}
+i.i777:before {
+  background-position: -1200px -1200px;
+}
+i.i778:before {
+  background-position: -1248px -1200px;
+}
+i.i779:before {
+  background-position: -1296px -1200px;
+}
+i.i780:before {
+  background-position: -1344px -1200px;
+}
+i.i781:before {
+  background-position: -1392px -1200px;
+}
+i.i782:before {
+  background-position: -0 -1248px;
+}
+i.i783:before {
+  background-position: -48px -1248px;
+}
+i.i784:before {
+  background-position: -96px -1248px;
+}
+i.i785:before {
+  background-position: -144px -1248px;
+}
+i.i786:before {
+  background-position: -192px -1248px;
+}
+i.i787:before {
+  background-position: -240px -1248px;
+}
+i.i788:before {
+  background-position: -288px -1248px;
+}
+i.i789:before {
+  background-position: -336px -1248px;
+}
+i.i790:before {
+  background-position: -384px -1248px;
+}
+i.i791:before {
+  background-position: -432px -1248px;
+}
+i.i792:before {
+  background-position: -480px -1248px;
+}
+i.i793:before {
+  background-position: -528px -1248px;
+}
+i.i794:before {
+  background-position: -576px -1248px;
+}
+i.i795:before {
+  background-position: -624px -1248px;
+}
+i.i796:before {
+  background-position: -672px -1248px;
+}
+i.i797:before {
+  background-position: -720px -1248px;
+}
+i.i798:before {
+  background-position: -768px -1248px;
+}
+i.i799:before {
+  background-position: -816px -1248px;
+}
+i.i800:before {
+  background-position: -864px -1248px;
+}
+i.i801:before {
+  background-position: -912px -1248px;
+}
+i.i802:before {
+  background-position: -960px -1248px;
+}
+i.i803:before {
+  background-position: -1008px -1248px;
+}
+i.i804:before {
+  background-position: -1056px -1248px;
+}
+i.i805:before {
+  background-position: -1104px -1248px;
+}
+i.i806:before {
+  background-position: -1152px -1248px;
+}
+i.i807:before {
+  background-position: -1200px -1248px;
+}
+i.i808:before {
+  background-position: -1248px -1248px;
+}
+i.i809:before {
+  background-position: -1296px -1248px;
+}
+i.i810:before {
+  background-position: -1344px -1248px;
+}
+i.i811:before {
+  background-position: -1392px -1248px;
+}
+i.i812:before {
+  background-position: -0 -1296px;
+}
+i.i813:before {
+  background-position: -48px -1296px;
+}
+i.i814:before {
+  background-position: -96px -1296px;
+}
+i.i815:before {
+  background-position: -144px -1296px;
+}
+i.i816:before {
+  background-position: -192px -1296px;
+}
+i.i817:before {
+  background-position: -240px -1296px;
+}
+i.i818:before {
+  background-position: -288px -1296px;
+}
+i.i819:before {
+  background-position: -336px -1296px;
+}
+i.i820:before {
+  background-position: -384px -1296px;
+}
+i.i821:before {
+  background-position: -432px -1296px;
+}
+i.i822:before {
+  background-position: -480px -1296px;
+}
+i.i823:before {
+  background-position: -528px -1296px;
+}
+i.i824:before {
+  background-position: -576px -1296px;
+}
+i.i825:before {
+  background-position: -624px -1296px;
+}
+i.i826:before {
+  background-position: -672px -1296px;
+}
+i.i827:before {
+  background-position: -720px -1296px;
+}
+i.i828:before {
+  background-position: -768px -1296px;
+}
+i.i829:before {
+  background-position: -816px -1296px;
+}
+i.i830:before {
+  background-position: -864px -1296px;
+}
+i.i831:before {
+  background-position: -912px -1296px;
+}
+i.i832:before {
+  background-position: -960px -1296px;
+}
+i.i833:before {
+  background-position: -1008px -1296px;
+}
+i.i834:before {
+  background-position: -1056px -1296px;
+}
+i.i835:before {
+  background-position: -1104px -1296px;
+}
+i.i836:before {
+  background-position: -1152px -1296px;
+}
+i.i837:before {
+  background-position: -1200px -1296px;
+}
+i.i838:before {
+  background-position: -1248px -1296px;
+}
+i.i839:before {
+  background-position: -1296px -1296px;
+}
+i.i840:before {
+  background-position: -1344px -1296px;
+}
+i.i841:before {
+  background-position: -1392px -1296px;
+}
+i.i842:before {
+  background-position: -0 -1344px;
+}
+i.i843:before {
+  background-position: -48px -1344px;
+}
+i.i844:before {
+  background-position: -96px -1344px;
+}
+i.i845:before {
+  background-position: -144px -1344px;
+}
+i.i846:before {
+  background-position: -192px -1344px;
+}
+i.i847:before {
+  background-position: -240px -1344px;
+}
+i.i848:before {
+  background-position: -288px -1344px;
+}
+i.i849:before {
+  background-position: -336px -1344px;
+}
+i.i850:before {
+  background-position: -384px -1344px;
+}
+i.i851:before {
+  background-position: -432px -1344px;
+}
+i.i852:before {
+  background-position: -480px -1344px;
+}
+i.i853:before {
+  background-position: -528px -1344px;
+}
+i.i854:before {
+  background-position: -576px -1344px;
+}
+i.i855:before {
+  background-position: -624px -1344px;
+}
+i.i856:before {
+  background-position: -672px -1344px;
+}
+i.i857:before {
+  background-position: -720px -1344px;
+}
+i.i858:before {
+  background-position: -768px -1344px;
+}
+i.i859:before {
+  background-position: -816px -1344px;
+}
+i.i860:before {
+  background-position: -864px -1344px;
+}
+i.i861:before {
+  background-position: -912px -1344px;
+}
+i.i862:before {
+  background-position: -960px -1344px;
+}
+i.i863:before {
+  background-position: -1008px -1344px;
+}
+i.i864:before {
+  background-position: -1056px -1344px;
+}
+i.i865:before {
+  background-position: -1104px -1344px;
+}
+i.i866:before {
+  background-position: -1152px -1344px;
+}
+i.i867:before {
+  background-position: -1200px -1344px;
+}
+i.i868:before {
+  background-position: -1248px -1344px;
+}
+i.i869:before {
+  background-position: -1296px -1344px;
+}
+i.i870:before {
+  background-position: -1344px -1344px;
+}
+i.i871:before {
+  background-position: -1392px -1344px;
+}
+i.i872:before {
+  background-position: -0 -1392px;
+}
+i.i873:before {
+  background-position: -48px -1392px;
+}
+i.i874:before {
+  background-position: -96px -1392px;
+}
+i.i875:before {
+  background-position: -144px -1392px;
+}
+i.i876:before {
+  background-position: -192px -1392px;
+}
+i.i877:before {
+  background-position: -240px -1392px;
+}
+i.i878:before {
+  background-position: -288px -1392px;
+}
+i.i879:before {
+  background-position: -336px -1392px;
+}
+i.i880:before {
+  background-position: -384px -1392px;
+}
+i.i881:before {
+  background-position: -432px -1392px;
+}
+i.i882:before {
+  background-position: -480px -1392px;
+}
+i.i883:before {
+  background-position: -528px -1392px;
+}
+i.i884:before {
+  background-position: -576px -1392px;
+}
+i.i885:before {
+  background-position: -624px -1392px;
+}
+i.i886:before {
+  background-position: -672px -1392px;
+}
+i.i887:before {
+  background-position: -720px -1392px;
+}
+i.i888:before {
+  background-position: -768px -1392px;
+}
+i.i889:before {
+  background-position: -816px -1392px;
+}
+i.i890:before {
+  background-position: -864px -1392px;
+}
+i.i891:before {
+  background-position: -912px -1392px;
+}
+i.i892:before {
+  background-position: -960px -1392px;
+}
+i.i893:before {
+  background-position: -1008px -1392px;
+}
+i.i894:before {
+  background-position: -1056px -1392px;
+}
+i.i895:before {
+  background-position: -1104px -1392px;
+}
+i.i896:before {
+  background-position: -1152px -1392px;
+}
+i.i897:before {
+  background-position: -1200px -1392px;
+}
+i.i898:before {
+  background-position: -1248px -1392px;
+}
+i.i899:before {
+  background-position: -1296px -1392px;
+}
+i.i900:before {
+  background-position: -1344px -1392px;
+}
+i.i901:before {
+  background-position: -1392px -1392px;
+}
+i.i902:before {
+  background-position: -0 -1440px;
+}
+i.i903:before {
+  background-position: -48px -1440px;
+}
+i.i904:before {
+  background-position: -96px -1440px;
+}
+i.i905:before {
+  background-position: -144px -1440px;
+}
+i.i906:before {
+  background-position: -192px -1440px;
+}
+i.i907:before {
+  background-position: -240px -1440px;
+}
+i.i908:before {
+  background-position: -288px -1440px;
+}
+i.i909:before {
+  background-position: -336px -1440px;
+}
+i.i910:before {
+  background-position: -384px -1440px;
+}
+i.i911:before {
+  background-position: -432px -1440px;
+}
+i.i912:before {
+  background-position: -480px -1440px;
+}
+i.i913:before {
+  background-position: -528px -1440px;
+}
+i.i914:before {
+  background-position: -576px -1440px;
+}
+i.i915:before {
+  background-position: -624px -1440px;
+}
+i.i916:before {
+  background-position: -672px -1440px;
+}
+i.i917:before {
+  background-position: -720px -1440px;
+}
+i.i918:before {
+  background-position: -768px -1440px;
+}
+i.i919:before {
+  background-position: -816px -1440px;
+}
+i.i920:before {
+  background-position: -864px -1440px;
+}
+i.i921:before {
+  background-position: -912px -1440px;
+}
+i.i922:before {
+  background-position: -960px -1440px;
+}
+i.i923:before {
+  background-position: -1008px -1440px;
+}
+i.i924:before {
+  background-position: -1056px -1440px;
+}
+i.i925:before {
+  background-position: -1104px -1440px;
+}
+i.i926:before {
+  background-position: -1152px -1440px;
+}
+i.i927:before {
+  background-position: -1200px -1440px;
+}
+i.i928:before {
+  background-position: -1248px -1440px;
+}
+i.i929:before {
+  background-position: -1296px -1440px;
+}
+i.i930:before {
+  background-position: -1344px -1440px;
+}
+i.i931:before {
+  background-position: -1392px -1440px;
+}
+i.i932:before {
+  background-position: -0 -1488px;
+}
+i.i933:before {
+  background-position: -48px -1488px;
+}
+i.i934:before {
+  background-position: -96px -1488px;
+}
+i.i935:before {
+  background-position: -144px -1488px;
+}
+i.i936:before {
+  background-position: -192px -1488px;
+}
+i.i937:before {
+  background-position: -240px -1488px;
+}
+i.i938:before {
+  background-position: -288px -1488px;
+}
+i.i939:before {
+  background-position: -336px -1488px;
+}
+i.i940:before {
+  background-position: -384px -1488px;
+}
+i.i941:before {
+  background-position: -432px -1488px;
+}
+i.i942:before {
+  background-position: -480px -1488px;
+}
+i.i943:before {
+  background-position: -528px -1488px;
+}
+i.i944:before {
+  background-position: -576px -1488px;
+}
+i.i945:before {
+  background-position: -624px -1488px;
+}
+i.i946:before {
+  background-position: -672px -1488px;
+}
+i.i947:before {
+  background-position: -720px -1488px;
+}
+i.i948:before {
+  background-position: -768px -1488px;
+}
+i.i949:before {
+  background-position: -816px -1488px;
+}
+i.i950:before {
+  background-position: -864px -1488px;
+}
+i.i951:before {
+  background-position: -912px -1488px;
+}
+i.i952:before {
+  background-position: -960px -1488px;
+}
+i.i953:before {
+  background-position: -1008px -1488px;
+}
+i.i954:before {
+  background-position: -1056px -1488px;
+}
+i.i955:before {
+  background-position: -1104px -1488px;
+}
+i.i956:before {
+  background-position: -1152px -1488px;
+}
+i.i957:before {
+  background-position: -1200px -1488px;
+}
+i.i958:before {
+  background-position: -1248px -1488px;
+}
+i.i959:before {
+  background-position: -1296px -1488px;
+}
+i.i960:before {
+  background-position: -1344px -1488px;
+}
+i.i961:before {
+  background-position: -1392px -1488px;
+}
+i.i962:before {
+  background-position: -0 -1536px;
+}
+i.i963:before {
+  background-position: -48px -1536px;
+}
+i.i964:before {
+  background-position: -96px -1536px;
+}
+i.i965:before {
+  background-position: -144px -1536px;
+}
+i.i966:before {
+  background-position: -192px -1536px;
+}
+i.i967:before {
+  background-position: -240px -1536px;
+}
+i.i968:before {
+  background-position: -288px -1536px;
+}
+i.i969:before {
+  background-position: -336px -1536px;
+}
+i.i970:before {
+  background-position: -384px -1536px;
+}
+i.i971:before {
+  background-position: -432px -1536px;
+}
+i.i972:before {
+  background-position: -480px -1536px;
+}
+i.i973:before {
+  background-position: -528px -1536px;
+}
+i.i974:before {
+  background-position: -576px -1536px;
+}
+i.i975:before {
+  background-position: -624px -1536px;
+}
+i.i976:before {
+  background-position: -672px -1536px;
+}
+i.i977:before {
+  background-position: -720px -1536px;
+}
+i.i978:before {
+  background-position: -768px -1536px;
+}
+i.i979:before {
+  background-position: -816px -1536px;
+}
+i.i980:before {
+  background-position: -864px -1536px;
+}
+i.i981:before {
+  background-position: -912px -1536px;
+}
+i.i982:before {
+  background-position: -960px -1536px;
+}
+i.i983:before {
+  background-position: -1008px -1536px;
+}
+i.i984:before {
+  background-position: -1056px -1536px;
+}
+i.i985:before {
+  background-position: -1104px -1536px;
+}
+i.i986:before {
+  background-position: -1152px -1536px;
+}
+i.i987:before {
+  background-position: -1200px -1536px;
+}
+i.i988:before {
+  background-position: -1248px -1536px;
+}
+i.i989:before {
+  background-position: -1296px -1536px;
+}
+i.i990:before {
+  background-position: -1344px -1536px;
+}
+i.i991:before {
+  background-position: -1392px -1536px;
+}
+i.i992:before {
+  background-position: -0 -1584px;
+}
+i.i993:before {
+  background-position: -48px -1584px;
+}
+i.i994:before {
+  background-position: -96px -1584px;
+}
+i.i995:before {
+  background-position: -144px -1584px;
+}
+i.i996:before {
+  background-position: -192px -1584px;
+}
+i.i997:before {
+  background-position: -240px -1584px;
+}
+i.i998:before {
+  background-position: -288px -1584px;
+}
+i.i999:before {
+  background-position: -336px -1584px;
+}
+i.i1000:before {
+  background-position: -384px -1584px;
+}
+i.i1001:before {
+  background-position: -432px -1584px;
+}
+i.i1002:before {
+  background-position: -480px -1584px;
+}
+i.i1003:before {
+  background-position: -528px -1584px;
+}
+i.i1004:before {
+  background-position: -576px -1584px;
+}
+i.i1005:before {
+  background-position: -624px -1584px;
+}
+i.i1006:before {
+  background-position: -672px -1584px;
+}
+i.i1007:before {
+  background-position: -720px -1584px;
+}
+i.i1008:before {
+  background-position: -768px -1584px;
+}
+i.i1009:before {
+  background-position: -816px -1584px;
+}
+i.i1010:before {
+  background-position: -864px -1584px;
+}
+i.i1011:before {
+  background-position: -912px -1584px;
+}
+i.i1012:before {
+  background-position: -960px -1584px;
+}
+i.i1013:before {
+  background-position: -1008px -1584px;
+}
+i.i1014:before {
+  background-position: -1056px -1584px;
+}
+i.i1015:before {
+  background-position: -1104px -1584px;
+}
+i.i1016:before {
+  background-position: -1152px -1584px;
+}
+i.i1017:before {
+  background-position: -1200px -1584px;
+}
+i.i1018:before {
+  background-position: -1248px -1584px;
+}
+i.i1019:before {
+  background-position: -1296px -1584px;
+}
+i.i1020:before {
+  background-position: -1344px -1584px;
+}
+i.i1021:before {
+  background-position: -1392px -1584px;
+}
+i.i1022:before {
+  background-position: -0 -1632px;
+}
+i.i1023:before {
+  background-position: -48px -1632px;
+}
+i.i1024:before {
+  background-position: -96px -1632px;
+}
+i.i1025:before {
+  background-position: -144px -1632px;
+}
+i.i1026:before {
+  background-position: -192px -1632px;
+}
+i.i1027:before {
+  background-position: -240px -1632px;
+}
+i.i1028:before {
+  background-position: -288px -1632px;
+}
+i.i1029:before {
+  background-position: -336px -1632px;
+}
+i.i1030:before {
+  background-position: -384px -1632px;
+}
+i.i1031:before {
+  background-position: -432px -1632px;
+}
+i.i1032:before {
+  background-position: -480px -1632px;
+}
+i.i1033:before {
+  background-position: -528px -1632px;
+}
+i.i1034:before {
+  background-position: -576px -1632px;
+}
+i.i1035:before {
+  background-position: -624px -1632px;
+}
+i.i1036:before {
+  background-position: -672px -1632px;
+}
+i.i1037:before {
+  background-position: -720px -1632px;
+}
+i.i1038:before {
+  background-position: -768px -1632px;
+}
+i.i1039:before {
+  background-position: -816px -1632px;
+}
+i.i1040:before {
+  background-position: -864px -1632px;
+}
+i.i1041:before {
+  background-position: -912px -1632px;
+}
+i.i1042:before {
+  background-position: -960px -1632px;
+}
+i.i1043:before {
+  background-position: -1008px -1632px;
+}
+i.i1044:before {
+  background-position: -1056px -1632px;
+}
+i.i1045:before {
+  background-position: -1104px -1632px;
+}
+i.i1046:before {
+  background-position: -1152px -1632px;
+}
+i.i1047:before {
+  background-position: -1200px -1632px;
+}
+i.i1048:before {
+  background-position: -1248px -1632px;
+}
+i.i1049:before {
+  background-position: -1296px -1632px;
+}
+i.i1050:before {
+  background-position: -1344px -1632px;
+}
+i.i1051:before {
+  background-position: -1392px -1632px;
+}
+i.i1052:before {
+  background-position: -0 -1680px;
+}
+i.i1053:before {
+  background-position: -48px -1680px;
+}
+i.i1054:before {
+  background-position: -96px -1680px;
+}
+i.i1055:before {
+  background-position: -144px -1680px;
+}
+i.i1056:before {
+  background-position: -192px -1680px;
+}
+i.i1057:before {
+  background-position: -240px -1680px;
+}
+i.i1058:before {
+  background-position: -288px -1680px;
+}
+i.i1059:before {
+  background-position: -336px -1680px;
+}
+i.i1060:before {
+  background-position: -384px -1680px;
+}
+i.i1061:before {
+  background-position: -432px -1680px;
+}
+i.i1062:before {
+  background-position: -480px -1680px;
+}
+i.i1063:before {
+  background-position: -528px -1680px;
+}
+i.i1064:before {
+  background-position: -576px -1680px;
+}
+i.i1065:before {
+  background-position: -624px -1680px;
+}
+i.i1066:before {
+  background-position: -672px -1680px;
+}
+i.i1067:before {
+  background-position: -720px -1680px;
+}
+i.i1068:before {
+  background-position: -768px -1680px;
+}
+i.i1069:before {
+  background-position: -816px -1680px;
+}
+i.i1070:before {
+  background-position: -864px -1680px;
+}
+i.i1071:before {
+  background-position: -912px -1680px;
+}
+i.i1072:before {
+  background-position: -960px -1680px;
+}
+i.i1073:before {
+  background-position: -1008px -1680px;
+}
+i.i1074:before {
+  background-position: -1056px -1680px;
+}
+i.i1075:before {
+  background-position: -1104px -1680px;
+}
+i.i1076:before {
+  background-position: -1152px -1680px;
+}
+i.i1077:before {
+  background-position: -1200px -1680px;
+}
+i.i1078:before {
+  background-position: -1248px -1680px;
+}
+i.i1079:before {
+  background-position: -1296px -1680px;
+}
+i.i1080:before {
+  background-position: -1344px -1680px;
+}
+i.i1081:before {
+  background-position: -1392px -1680px;
+}
+i.i1082:before {
+  background-position: -0 -1728px;
+}
+i.i1083:before {
+  background-position: -48px -1728px;
+}
+i.i1084:before {
+  background-position: -96px -1728px;
+}
+i.i1085:before {
+  background-position: -144px -1728px;
+}
+i.i1086:before {
+  background-position: -192px -1728px;
+}
+i.i1087:before {
+  background-position: -240px -1728px;
+}
+i.i1088:before {
+  background-position: -288px -1728px;
+}
+i.i1089:before {
+  background-position: -336px -1728px;
+}
+i.i1090:before {
+  background-position: -384px -1728px;
+}
+i.i1091:before {
+  background-position: -432px -1728px;
+}
+i.i1092:before {
+  background-position: -480px -1728px;
+}
+i.i1093:before {
+  background-position: -528px -1728px;
+}
+i.i1094:before {
+  background-position: -576px -1728px;
+}
+i.i1095:before {
+  background-position: -624px -1728px;
+}
+i.i1096:before {
+  background-position: -672px -1728px;
+}
+i.i1097:before {
+  background-position: -720px -1728px;
+}
+i.i1098:before {
+  background-position: -768px -1728px;
+}
+i.i1099:before {
+  background-position: -816px -1728px;
+}
+i.i1100:before {
+  background-position: -864px -1728px;
+}
+i.i1101:before {
+  background-position: -912px -1728px;
+}
+i.i1102:before {
+  background-position: -960px -1728px;
+}
+i.i1103:before {
+  background-position: -1008px -1728px;
+}
+i.i1105:before {
+  background-position: -1056px -1728px;
+}
+i.i1106:before {
+  background-position: -1104px -1728px;
+}
+i.i1107:before {
+  background-position: -1152px -1728px;
+}
+i.i1108:before {
+  background-position: -1200px -1728px;
+}
+i.i1109:before {
+  background-position: -1248px -1728px;
+}
+i.i1110:before {
+  background-position: -1296px -1728px;
+}
+i.i1111:before {
+  background-position: -1344px -1728px;
+}
+i.i1112:before {
+  background-position: -1392px -1728px;
+}
+i.i1113:before {
+  background-position: -0 -1776px;
+}
+i.i1114:before {
+  background-position: -48px -1776px;
+}
+i.i1115:before {
+  background-position: -96px -1776px;
+}
+i.i1116:before {
+  background-position: -144px -1776px;
+}
+i.i1117:before {
+  background-position: -192px -1776px;
+}
+i.i1118:before {
+  background-position: -240px -1776px;
+}
+i.i1119:before {
+  background-position: -288px -1776px;
+}
+i.i1120:before {
+  background-position: -336px -1776px;
+}
+i.i1121-strong_slowness:before {
+  background-position: -384px -1776px;
+}
+i.i1121-water:before {
+  background-position: -432px -1776px;
+}
+i.i1121-mundane:before {
+  background-position: -480px -1776px;
+}
+i.i1121-thick:before {
+  background-position: -528px -1776px;
+}
+i.i1121-long_slowness:before {
+  background-position: -576px -1776px;
+}
+i.i1121-night_vision:before {
+  background-position: -624px -1776px;
+}
+i.i1121-long_night_vision:before {
+  background-position: -672px -1776px;
+}
+i.i1121-invisibility:before {
+  background-position: -720px -1776px;
+}
+i.i1121-fire_resistance:before {
+  background-position: -768px -1776px;
+}
+i.i1121-long_invisibility:before {
+  background-position: -816px -1776px;
+}
+i.i1121-leaping:before {
+  background-position: -864px -1776px;
+}
+i.i1121-long_swiftness:before {
+  background-position: -912px -1776px;
+}
+i.i1121-swiftness:before {
+  background-position: -960px -1776px;
+}
+i.i1121-long_leaping:before {
+  background-position: -1008px -1776px;
+}
+i.i1121-long_turtle_master:before {
+  background-position: -1056px -1776px;
+}
+i.i1121-long_fire_resistance:before {
+  background-position: -1104px -1776px;
+}
+i.i1121-strong_leaping:before {
+  background-position: -1152px -1776px;
+}
+i.i1121-turtle_master:before {
+  background-position: -1200px -1776px;
+}
+i.i1121-poison:before {
+  background-position: -1248px -1776px;
+}
+i.i1121-strong_turtle_master:before {
+  background-position: -1296px -1776px;
+}
+i.i1121-long_strength:before {
+  background-position: -1344px -1776px;
+}
+i.i1121-infested:before {
+  background-position: -1392px -1776px;
+}
+i.i1121-oozing:before {
+  background-position: -0 -1824px;
+}
+i.i1121-weaving:before {
+  background-position: -48px -1824px;
+}
+i.i1121-wind_charged:before {
+  background-position: -96px -1824px;
+}
+i.i1121-long_slow_falling:before {
+  background-position: -144px -1824px;
+}
+i.i1121-slow_falling:before {
+  background-position: -192px -1824px;
+}
+i.i1121-luck:before {
+  background-position: -240px -1824px;
+}
+i.i1121-long_weakness:before {
+  background-position: -288px -1824px;
+}
+i.i1121-weakness:before {
+  background-position: -336px -1824px;
+}
+i.i1121-strong_strength:before {
+  background-position: -384px -1824px;
+}
+i.i1121-strength:before {
+  background-position: -432px -1824px;
+}
+i.i1121-water_breathing:before {
+  background-position: -480px -1824px;
+}
+i.i1121-strong_regeneration:before {
+  background-position: -528px -1824px;
+}
+i.i1121-long_regeneration:before {
+  background-position: -576px -1824px;
+}
+i.i1121-regeneration:before {
+  background-position: -624px -1824px;
+}
+i.i1121-strong_poison:before {
+  background-position: -672px -1824px;
+}
+i.i1121-long_poison:before {
+  background-position: -720px -1824px;
+}
+i.i1121-strong_harming:before {
+  background-position: -768px -1824px;
+}
+i.i1121-harming:before {
+  background-position: -816px -1824px;
+}
+i.i1121-strong_healing:before {
+  background-position: -864px -1824px;
+}
+i.i1121-healing:before {
+  background-position: -912px -1824px;
+}
+i.i1121-long_water_breathing:before {
+  background-position: -960px -1824px;
+}
+i.i1121-awkward:before {
+  background-position: -1008px -1824px;
+}
+i.i1121-strong_swiftness:before {
+  background-position: -1056px -1824px;
+}
+i.i1121-slowness:before {
+  background-position: -1104px -1824px;
+}
+i.i1122:before {
+  background-position: -1152px -1824px;
+}
+i.i1123:before {
+  background-position: -1200px -1824px;
+}
+i.i1124:before {
+  background-position: -1248px -1824px;
+}
+i.i1125:before {
+  background-position: -1296px -1824px;
+}
+i.i1126:before {
+  background-position: -1344px -1824px;
+}
+i.i1127:before {
+  background-position: -1392px -1824px;
+}
+i.i1128:before {
+  background-position: -0 -1872px;
+}
+i.i1129:before {
+  background-position: -48px -1872px;
+}
+i.i1130:before {
+  background-position: -96px -1872px;
+}
+i.i1131:before {
+  background-position: -144px -1872px;
+}
+i.i1132:before {
+  background-position: -192px -1872px;
+}
+i.i1133:before {
+  background-position: -240px -1872px;
+}
+i.i1134:before {
+  background-position: -288px -1872px;
+}
+i.i1135:before {
+  background-position: -336px -1872px;
+}
+i.i1136:before {
+  background-position: -384px -1872px;
+}
+i.i1137:before {
+  background-position: -432px -1872px;
+}
+i.i1138:before {
+  background-position: -480px -1872px;
+}
+i.i1139:before {
+  background-position: -528px -1872px;
+}
+i.i1140:before {
+  background-position: -576px -1872px;
+}
+i.i1141:before {
+  background-position: -624px -1872px;
+}
+i.i1142:before {
+  background-position: -672px -1872px;
+}
+i.i1143:before {
+  background-position: -720px -1872px;
+}
+i.i1144:before {
+  background-position: -768px -1872px;
+}
+i.i1145:before {
+  background-position: -816px -1872px;
+}
+i.i1146:before {
+  background-position: -864px -1872px;
+}
+i.i1147:before {
+  background-position: -912px -1872px;
+}
+i.i1148:before {
+  background-position: -960px -1872px;
+}
+i.i1149:before {
+  background-position: -1008px -1872px;
+}
+i.i1150:before {
+  background-position: -1056px -1872px;
+}
+i.i1151:before {
+  background-position: -1104px -1872px;
+}
+i.i1152:before {
+  background-position: -1152px -1872px;
+}
+i.i1153:before {
+  background-position: -1200px -1872px;
+}
+i.i1154:before {
+  background-position: -1248px -1872px;
+}
+i.i1155:before {
+  background-position: -1296px -1872px;
+}
+i.i1156:before {
+  background-position: -1344px -1872px;
+}
+i.i1157:before {
+  background-position: -1392px -1872px;
+}
+i.i1158:before {
+  background-position: -0 -1920px;
+}
+i.i1159:before {
+  background-position: -48px -1920px;
+}
+i.i1160:before {
+  background-position: -96px -1920px;
+}
+i.i1161:before {
+  background-position: -144px -1920px;
+}
+i.i1162:before {
+  background-position: -192px -1920px;
+}
+i.i1163:before {
+  background-position: -240px -1920px;
+}
+i.i1164:before {
+  background-position: -288px -1920px;
+}
+i.i1165:before {
+  background-position: -336px -1920px;
+}
+i.i1166:before {
+  background-position: -384px -1920px;
+}
+i.i1167:before {
+  background-position: -432px -1920px;
+}
+i.i1168:before {
+  background-position: -480px -1920px;
+}
+i.i1169:before {
+  background-position: -528px -1920px;
+}
+i.i1170:before {
+  background-position: -576px -1920px;
+}
+i.i1171:before {
+  background-position: -624px -1920px;
+}
+i.i1172:before {
+  background-position: -672px -1920px;
+}
+i.i1173:before {
+  background-position: -720px -1920px;
+}
+i.i1174:before {
+  background-position: -768px -1920px;
+}
+i.i1175:before {
+  background-position: -816px -1920px;
+}
+i.i1176:before {
+  background-position: -864px -1920px;
+}
+i.i1177:before {
+  background-position: -912px -1920px;
+}
+i.i1178:before {
+  background-position: -960px -1920px;
+}
+i.i1179:before {
+  background-position: -1008px -1920px;
+}
+i.i1181:before {
+  background-position: -1056px -1920px;
+}
+i.i1182:before {
+  background-position: -1104px -1920px;
+}
+i.i1183:before {
+  background-position: -1152px -1920px;
+}
+i.i1184:before {
+  background-position: -1200px -1920px;
+}
+i.i1185:before {
+  background-position: -1248px -1920px;
+}
+i.i1186:before {
+  background-position: -1296px -1920px;
+}
+i.i1187:before {
+  background-position: -1344px -1920px;
+}
+i.i1188:before {
+  background-position: -1392px -1920px;
+}
+i.i1189:before {
+  background-position: -0 -1968px;
+}
+i.i1190:before {
+  background-position: -48px -1968px;
+}
+i.i1191:before {
+  background-position: -96px -1968px;
+}
+i.i1192:before {
+  background-position: -144px -1968px;
+}
+i.i1193:before {
+  background-position: -192px -1968px;
+}
+i.i1194:before {
+  background-position: -240px -1968px;
+}
+i.i1195:before {
+  background-position: -288px -1968px;
+}
+i.i1196:before {
+  background-position: -336px -1968px;
+}
+i.i1197:before {
+  background-position: -384px -1968px;
+}
+i.i1198:before {
+  background-position: -432px -1968px;
+}
+i.i1199:before {
+  background-position: -480px -1968px;
+}
+i.i1200:before {
+  background-position: -528px -1968px;
+}
+i.i1201:before {
+  background-position: -576px -1968px;
+}
+i.i1202:before {
+  background-position: -624px -1968px;
+}
+i.i1203:before {
+  background-position: -672px -1968px;
+}
+i.i1204:before {
+  background-position: -720px -1968px;
+}
+i.i1205:before {
+  background-position: -768px -1968px;
+}
+i.i1206:before {
+  background-position: -816px -1968px;
+}
+i.i1207:before {
+  background-position: -864px -1968px;
+}
+i.i1208:before {
+  background-position: -912px -1968px;
+}
+i.i1209:before {
+  background-position: -960px -1968px;
+}
+i.i1210:before {
+  background-position: -1008px -1968px;
+}
+i.i1211:before {
+  background-position: -1056px -1968px;
+}
+i.i1212:before {
+  background-position: -1104px -1968px;
+}
+i.i1214:before {
+  background-position: -1152px -1968px;
+}
+i.i1215:before {
+  background-position: -1200px -1968px;
+}
+i.i1216:before {
+  background-position: -1248px -1968px;
+}
+i.i1217:before {
+  background-position: -1296px -1968px;
+}
+i.i1218:before {
+  background-position: -1344px -1968px;
+}
+i.i1219:before {
+  background-position: -1392px -1968px;
+}
+i.i1220:before {
+  background-position: -0 -2016px;
+}
+i.i1222:before {
+  background-position: -48px -2016px;
+}
+i.i1223:before {
+  background-position: -96px -2016px;
+}
+i.i1224:before {
+  background-position: -144px -2016px;
+}
+i.i1225:before {
+  background-position: -192px -2016px;
+}
+i.i1226:before {
+  background-position: -240px -2016px;
+}
+i.i1227:before {
+  background-position: -288px -2016px;
+}
+i.i1228:before {
+  background-position: -336px -2016px;
+}
+i.i1229:before {
+  background-position: -384px -2016px;
+}
+i.i1230:before {
+  background-position: -432px -2016px;
+}
+i.i1231:before {
+  background-position: -480px -2016px;
+}
+i.i1232:before {
+  background-position: -528px -2016px;
+}
+i.i1233:before {
+  background-position: -576px -2016px;
+}
+i.i1234:before {
+  background-position: -624px -2016px;
+}
+i.i1235:before {
+  background-position: -672px -2016px;
+}
+i.i1236:before {
+  background-position: -720px -2016px;
+}
+i.i1237:before {
+  background-position: -768px -2016px;
+}
+i.i1238:before {
+  background-position: -816px -2016px;
+}
+i.i1239:before {
+  background-position: -864px -2016px;
+}
+i.i1240:before {
+  background-position: -912px -2016px;
+}
+i.i1241:before {
+  background-position: -960px -2016px;
+}
+i.i1242:before {
+  background-position: -1008px -2016px;
+}
+i.i1243:before {
+  background-position: -1056px -2016px;
+}
+i.i1244:before {
+  background-position: -1104px -2016px;
+}
+i.i1245:before {
+  background-position: -1152px -2016px;
+}
+i.i1246:before {
+  background-position: -1200px -2016px;
+}
+i.i1247:before {
+  background-position: -1248px -2016px;
+}
+i.i1248:before {
+  background-position: -1296px -2016px;
+}
+i.i1249:before {
+  background-position: -1344px -2016px;
+}
+i.i1250:before {
+  background-position: -1392px -2016px;
+}
+i.i1251:before {
+  background-position: -0 -2064px;
+}
+i.i1252:before {
+  background-position: -48px -2064px;
+}
+i.i1253:before {
+  background-position: -96px -2064px;
+}
+i.i1254:before {
+  background-position: -144px -2064px;
+}
+i.i1255:before {
+  background-position: -192px -2064px;
+}
+i.i1256:before {
+  background-position: -240px -2064px;
+}
+i.i1257:before {
+  background-position: -288px -2064px;
+}
+i.i1258:before {
+  background-position: -336px -2064px;
+}
+i.i1259:before {
+  background-position: -384px -2064px;
+}
+i.i1260:before {
+  background-position: -432px -2064px;
+}
+i.i1261:before {
+  background-position: -480px -2064px;
+}
+i.i1262:before {
+  background-position: -528px -2064px;
+}
+i.i1263:before {
+  background-position: -576px -2064px;
+}
+i.i1264:before {
+  background-position: -624px -2064px;
+}
+i.i1265:before {
+  background-position: -672px -2064px;
+}
+i.i1266:before {
+  background-position: -720px -2064px;
+}
+i.i1267:before {
+  background-position: -768px -2064px;
+}
+i.i1268:before {
+  background-position: -816px -2064px;
+}
+i.i1269:before {
+  background-position: -864px -2064px;
+}
+i.i1270:before {
+  background-position: -912px -2064px;
+}
+i.i1271:before {
+  background-position: -960px -2064px;
+}
+i.i1272:before {
+  background-position: -1008px -2064px;
+}
+i.i1273:before {
+  background-position: -1056px -2064px;
+}
+i.i1274:before {
+  background-position: -1104px -2064px;
+}
+i.i1275:before {
+  background-position: -1152px -2064px;
+}
+i.i1276:before {
+  background-position: -1200px -2064px;
+}
+i.i1277:before {
+  background-position: -1248px -2064px;
+}
+i.i1278:before {
+  background-position: -1296px -2064px;
+}
+i.i1279:before {
+  background-position: -1344px -2064px;
+}
+i.i1280:before {
+  background-position: -1392px -2064px;
+}
+i.i1281:before {
+  background-position: -0 -2112px;
+}
+i.i1282:before {
+  background-position: -48px -2112px;
+}
+i.i1283:before {
+  background-position: -96px -2112px;
+}
+i.i1284:before {
+  background-position: -144px -2112px;
+}
+i.i1285:before {
+  background-position: -192px -2112px;
+}
+i.i1286:before {
+  background-position: -240px -2112px;
+}
+i.i1287:before {
+  background-position: -288px -2112px;
+}
+i.i1288:before {
+  background-position: -336px -2112px;
+}
+i.i1289:before {
+  background-position: -384px -2112px;
+}
+i.i1290:before {
+  background-position: -432px -2112px;
+}
+i.i1291-long_poison:before {
+  background-position: -480px -2112px;
+}
+i.i1291-long_regeneration:before {
+  background-position: -528px -2112px;
+}
+i.i1291-strong_poison:before {
+  background-position: -576px -2112px;
+}
+i.i1291-strong_healing:before {
+  background-position: -624px -2112px;
+}
+i.i1291-poison:before {
+  background-position: -672px -2112px;
+}
+i.i1291-strong_harming:before {
+  background-position: -720px -2112px;
+}
+i.i1291-harming:before {
+  background-position: -768px -2112px;
+}
+i.i1291-strength:before {
+  background-position: -816px -2112px;
+}
+i.i1291-healing:before {
+  background-position: -864px -2112px;
+}
+i.i1291-strong_regeneration:before {
+  background-position: -912px -2112px;
+}
+i.i1291-long_weakness:before {
+  background-position: -960px -2112px;
+}
+i.i1291-long_strength:before {
+  background-position: -1008px -2112px;
+}
+i.i1291-strong_strength:before {
+  background-position: -1056px -2112px;
+}
+i.i1291-weakness:before {
+  background-position: -1104px -2112px;
+}
+i.i1291-luck:before {
+  background-position: -1152px -2112px;
+}
+i.i1291-slow_falling:before {
+  background-position: -1200px -2112px;
+}
+i.i1291-long_slow_falling:before {
+  background-position: -1248px -2112px;
+}
+i.i1291-wind_charged:before {
+  background-position: -1296px -2112px;
+}
+i.i1291-weaving:before {
+  background-position: -1344px -2112px;
+}
+i.i1291-oozing:before {
+  background-position: -1392px -2112px;
+}
+i.i1291-infested:before {
+  background-position: -0 -2160px;
+}
+i.i1291-water_breathing:before {
+  background-position: -48px -2160px;
+}
+i.i1291-long_water_breathing:before {
+  background-position: -96px -2160px;
+}
+i.i1291-regeneration:before {
+  background-position: -144px -2160px;
+}
+i.i1291-strong_turtle_master:before {
+  background-position: -192px -2160px;
+}
+i.i1291-long_leaping:before {
+  background-position: -240px -2160px;
+}
+i.i1291-mundane:before {
+  background-position: -288px -2160px;
+}
+i.i1291-thick:before {
+  background-position: -336px -2160px;
+}
+i.i1291-awkward:before {
+  background-position: -384px -2160px;
+}
+i.i1291-night_vision:before {
+  background-position: -432px -2160px;
+}
+i.i1291-long_night_vision:before {
+  background-position: -480px -2160px;
+}
+i.i1291-invisibility:before {
+  background-position: -528px -2160px;
+}
+i.i1291-long_invisibility:before {
+  background-position: -576px -2160px;
+}
+i.i1291-leaping:before {
+  background-position: -624px -2160px;
+}
+i.i1291-strong_leaping:before {
+  background-position: -672px -2160px;
+}
+i.i1291-long_turtle_master:before {
+  background-position: -720px -2160px;
+}
+i.i1291-fire_resistance:before {
+  background-position: -768px -2160px;
+}
+i.i1291-long_fire_resistance:before {
+  background-position: -816px -2160px;
+}
+i.i1291-swiftness:before {
+  background-position: -864px -2160px;
+}
+i.i1291-long_swiftness:before {
+  background-position: -912px -2160px;
+}
+i.i1291-strong_swiftness:before {
+  background-position: -960px -2160px;
+}
+i.i1291-slowness:before {
+  background-position: -1008px -2160px;
+}
+i.i1291-long_slowness:before {
+  background-position: -1056px -2160px;
+}
+i.i1291-strong_slowness:before {
+  background-position: -1104px -2160px;
+}
+i.i1291-turtle_master:before {
+  background-position: -1152px -2160px;
+}
+i.i1291-water:before {
+  background-position: -1200px -2160px;
+}
+i.i1292:before {
+  background-position: -1248px -2160px;
+}
+i.i1293-water:before {
+  background-position: -1296px -2160px;
+}
+i.i1293-water_breathing:before {
+  background-position: -1344px -2160px;
+}
+i.i1293-healing:before {
+  background-position: -1392px -2160px;
+}
+i.i1293-strong_healing:before {
+  background-position: -0 -2208px;
+}
+i.i1293-harming:before {
+  background-position: -48px -2208px;
+}
+i.i1293-strong_harming:before {
+  background-position: -96px -2208px;
+}
+i.i1293-poison:before {
+  background-position: -144px -2208px;
+}
+i.i1293-long_poison:before {
+  background-position: -192px -2208px;
+}
+i.i1293-strong_poison:before {
+  background-position: -240px -2208px;
+}
+i.i1293-regeneration:before {
+  background-position: -288px -2208px;
+}
+i.i1293-long_regeneration:before {
+  background-position: -336px -2208px;
+}
+i.i1293-infested:before {
+  background-position: -384px -2208px;
+}
+i.i1293-strong_regeneration:before {
+  background-position: -432px -2208px;
+}
+i.i1293-strength:before {
+  background-position: -480px -2208px;
+}
+i.i1293-long_strength:before {
+  background-position: -528px -2208px;
+}
+i.i1293-strong_strength:before {
+  background-position: -576px -2208px;
+}
+i.i1293-weakness:before {
+  background-position: -624px -2208px;
+}
+i.i1293-long_weakness:before {
+  background-position: -672px -2208px;
+}
+i.i1293-luck:before {
+  background-position: -720px -2208px;
+}
+i.i1293-slow_falling:before {
+  background-position: -768px -2208px;
+}
+i.i1293-long_water_breathing:before {
+  background-position: -816px -2208px;
+}
+i.i1293-fire_resistance:before {
+  background-position: -864px -2208px;
+}
+i.i1293-strong_turtle_master:before {
+  background-position: -912px -2208px;
+}
+i.i1293-leaping:before {
+  background-position: -960px -2208px;
+}
+i.i1293-wind_charged:before {
+  background-position: -1008px -2208px;
+}
+i.i1293-weaving:before {
+  background-position: -1056px -2208px;
+}
+i.i1293-mundane:before {
+  background-position: -1104px -2208px;
+}
+i.i1293-thick:before {
+  background-position: -1152px -2208px;
+}
+i.i1293-awkward:before {
+  background-position: -1200px -2208px;
+}
+i.i1293-night_vision:before {
+  background-position: -1248px -2208px;
+}
+i.i1293-long_night_vision:before {
+  background-position: -1296px -2208px;
+}
+i.i1293-invisibility:before {
+  background-position: -1344px -2208px;
+}
+i.i1293-long_invisibility:before {
+  background-position: -1392px -2208px;
+}
+i.i1293-long_leaping:before {
+  background-position: -0 -2256px;
+}
+i.i1293-long_turtle_master:before {
+  background-position: -48px -2256px;
+}
+i.i1293-strong_leaping:before {
+  background-position: -96px -2256px;
+}
+i.i1293-long_fire_resistance:before {
+  background-position: -144px -2256px;
+}
+i.i1293-swiftness:before {
+  background-position: -192px -2256px;
+}
+i.i1293-oozing:before {
+  background-position: -240px -2256px;
+}
+i.i1293-long_swiftness:before {
+  background-position: -288px -2256px;
+}
+i.i1293-strong_swiftness:before {
+  background-position: -336px -2256px;
+}
+i.i1293-slowness:before {
+  background-position: -384px -2256px;
+}
+i.i1293-long_slowness:before {
+  background-position: -432px -2256px;
+}
+i.i1293-strong_slowness:before {
+  background-position: -480px -2256px;
+}
+i.i1293-turtle_master:before {
+  background-position: -528px -2256px;
+}
+i.i1293-long_slow_falling:before {
+  background-position: -576px -2256px;
+}
+i.i1294-slow_falling:before {
+  background-position: -624px -2256px;
+}
+i.i1294-infested:before {
+  background-position: -672px -2256px;
+}
+i.i1294-swiftness:before {
+  background-position: -720px -2256px;
+}
+i.i1294-strong_harming:before {
+  background-position: -768px -2256px;
+}
+i.i1294-harming:before {
+  background-position: -816px -2256px;
+}
+i.i1294-strong_healing:before {
+  background-position: -864px -2256px;
+}
+i.i1294-healing:before {
+  background-position: -912px -2256px;
+}
+i.i1294-water_breathing:before {
+  background-position: -960px -2256px;
+}
+i.i1294-strong_turtle_master:before {
+  background-position: -1008px -2256px;
+}
+i.i1294-long_turtle_master:before {
+  background-position: -1056px -2256px;
+}
+i.i1294-turtle_master:before {
+  background-position: -1104px -2256px;
+}
+i.i1294-strong_slowness:before {
+  background-position: -1152px -2256px;
+}
+i.i1294-long_slowness:before {
+  background-position: -1200px -2256px;
+}
+i.i1294-slowness:before {
+  background-position: -1248px -2256px;
+}
+i.i1294-strong_swiftness:before {
+  background-position: -1296px -2256px;
+}
+i.i1294-long_swiftness:before {
+  background-position: -1344px -2256px;
+}
+i.i1294-oozing:before {
+  background-position: -1392px -2256px;
+}
+i.i1294-long_poison:before {
+  background-position: -0 -2304px;
+}
+i.i1294-long_fire_resistance:before {
+  background-position: -48px -2304px;
+}
+i.i1294-fire_resistance:before {
+  background-position: -96px -2304px;
+}
+i.i1294-strong_leaping:before {
+  background-position: -144px -2304px;
+}
+i.i1294-long_leaping:before {
+  background-position: -192px -2304px;
+}
+i.i1294-leaping:before {
+  background-position: -240px -2304px;
+}
+i.i1294-long_invisibility:before {
+  background-position: -288px -2304px;
+}
+i.i1294-invisibility:before {
+  background-position: -336px -2304px;
+}
+i.i1294-long_night_vision:before {
+  background-position: -384px -2304px;
+}
+i.i1294-night_vision:before {
+  background-position: -432px -2304px;
+}
+i.i1294-awkward:before {
+  background-position: -480px -2304px;
+}
+i.i1294-thick:before {
+  background-position: -528px -2304px;
+}
+i.i1294-mundane:before {
+  background-position: -576px -2304px;
+}
+i.i1294-water:before {
+  background-position: -624px -2304px;
+}
+i.i1294-poison:before {
+  background-position: -672px -2304px;
+}
+i.i1294-long_water_breathing:before {
+  background-position: -720px -2304px;
+}
+i.i1294-long_slow_falling:before {
+  background-position: -768px -2304px;
+}
+i.i1294-regeneration:before {
+  background-position: -816px -2304px;
+}
+i.i1294-long_regeneration:before {
+  background-position: -864px -2304px;
+}
+i.i1294-strong_regeneration:before {
+  background-position: -912px -2304px;
+}
+i.i1294-strength:before {
+  background-position: -960px -2304px;
+}
+i.i1294-long_strength:before {
+  background-position: -1008px -2304px;
+}
+i.i1294-strong_strength:before {
+  background-position: -1056px -2304px;
+}
+i.i1294-weakness:before {
+  background-position: -1104px -2304px;
+}
+i.i1294-strong_poison:before {
+  background-position: -1152px -2304px;
+}
+i.i1294-weaving:before {
+  background-position: -1200px -2304px;
+}
+i.i1294-long_weakness:before {
+  background-position: -1248px -2304px;
+}
+i.i1294-luck:before {
+  background-position: -1296px -2304px;
+}
+i.i1294-wind_charged:before {
+  background-position: -1344px -2304px;
+}
+i.i1295:before {
+  background-position: -1392px -2304px;
+}
+i.i1296:before {
+  background-position: -0 -2352px;
+}
+i.i1297:before {
+  background-position: -48px -2352px;
+}
+i.i1298:before {
+  background-position: -96px -2352px;
+}
+i.i1299:before {
+  background-position: -144px -2352px;
+}
+i.i1300:before {
+  background-position: -192px -2352px;
+}
+i.i1301:before {
+  background-position: -240px -2352px;
+}
+i.i1302:before {
+  background-position: -288px -2352px;
+}
+i.i1303:before {
+  background-position: -336px -2352px;
+}
+i.i1304:before {
+  background-position: -384px -2352px;
+}
+i.i1305:before {
+  background-position: -432px -2352px;
+}
+i.i1306:before {
+  background-position: -480px -2352px;
+}
+i.i1308:before {
+  background-position: -528px -2352px;
+}
+i.i1309:before {
+  background-position: -576px -2352px;
+}
+i.i1310:before {
+  background-position: -624px -2352px;
+}
+i.i1311:before {
+  background-position: -672px -2352px;
+}
+i.i1312:before {
+  background-position: -720px -2352px;
+}
+i.i1313:before {
+  background-position: -768px -2352px;
+}
+i.i1314:before {
+  background-position: -816px -2352px;
+}
+i.i1315:before {
+  background-position: -864px -2352px;
+}
+i.i1316:before {
+  background-position: -912px -2352px;
+}
+i.i1317:before {
+  background-position: -960px -2352px;
+}
+i.i1318:before {
+  background-position: -1008px -2352px;
+}
+i.i1319:before {
+  background-position: -1056px -2352px;
+}
+i.i1320:before {
+  background-position: -1104px -2352px;
+}
+i.i1321:before {
+  background-position: -1152px -2352px;
+}
+i.i1322:before {
+  background-position: -1200px -2352px;
+}
+i.i1323:before {
+  background-position: -1248px -2352px;
+}
+i.i1324:before {
+  background-position: -1296px -2352px;
+}
+i.i1325:before {
+  background-position: -1344px -2352px;
+}
+i.i1326:before {
+  background-position: -1392px -2352px;
+}
+i.i1327:before {
+  background-position: -0 -2400px;
+}
+i.i1328:before {
+  background-position: -48px -2400px;
+}
+i.i1329:before {
+  background-position: -96px -2400px;
+}
+i.i1330:before {
+  background-position: -144px -2400px;
+}
+i.i1331:before {
+  background-position: -192px -2400px;
+}
+i.i1332:before {
+  background-position: -240px -2400px;
+}
+i.i1333:before {
+  background-position: -288px -2400px;
+}
+i.i1334:before {
+  background-position: -336px -2400px;
+}
+i.i1335:before {
+  background-position: -384px -2400px;
+}
+i.i1336:before {
+  background-position: -432px -2400px;
+}
+i.i1337:before {
+  background-position: -480px -2400px;
+}
+i.i1338:before {
+  background-position: -528px -2400px;
+}
+i.i1339:before {
+  background-position: -576px -2400px;
+}
+i.i1340:before {
+  background-position: -624px -2400px;
+}
+i.i1341:before {
+  background-position: -672px -2400px;
+}
+i.i1342:before {
+  background-position: -720px -2400px;
+}
+i.i1343:before {
+  background-position: -768px -2400px;
+}
+i.i1344:before {
+  background-position: -816px -2400px;
+}
+i.i1345:before {
+  background-position: -864px -2400px;
+}
+i.i1346:before {
+  background-position: -912px -2400px;
+}
+i.i1347:before {
+  background-position: -960px -2400px;
+}
+i.i1348:before {
+  background-position: -1008px -2400px;
+}
+i.i1349:before {
+  background-position: -1056px -2400px;
+}
+i.i1350:before {
+  background-position: -1104px -2400px;
+}
+i.i1351:before {
+  background-position: -1152px -2400px;
+}
+i.i1352:before {
+  background-position: -1200px -2400px;
+}
+i.i1353:before {
+  background-position: -1248px -2400px;
+}
+i.i1354:before {
+  background-position: -1296px -2400px;
+}
+i.i1355:before {
+  background-position: -1344px -2400px;
+}
+i.i1356:before {
+  background-position: -1392px -2400px;
+}
+i.i1357:before {
+  background-position: -0 -2448px;
+}
+i.i1358:before {
+  background-position: -48px -2448px;
+}
+i.i1359:before {
+  background-position: -96px -2448px;
+}
+i.i1360:before {
+  background-position: -144px -2448px;
+}
+i.i1361:before {
+  background-position: -192px -2448px;
+}
+i.i1362:before {
+  background-position: -240px -2448px;
+}
+i.i1363:before {
+  background-position: -288px -2448px;
+}
+i.i1364:before {
+  background-position: -336px -2448px;
+}
+i.i1365:before {
+  background-position: -384px -2448px;
+}
+i.i1366:before {
+  background-position: -432px -2448px;
+}
+i.i1367:before {
+  background-position: -480px -2448px;
+}
+i.i1368:before {
+  background-position: -528px -2448px;
+}
+i.i1369:before {
+  background-position: -576px -2448px;
+}
+i.i1370:before {
+  background-position: -624px -2448px;
+}
+i.i1371:before {
+  background-position: -672px -2448px;
+}
+i.i1372:before {
+  background-position: -720px -2448px;
+}
+i.i1373:before {
+  background-position: -768px -2448px;
+}
+i.i1374:before {
+  background-position: -816px -2448px;
+}
+i.i1375:before {
+  background-position: -864px -2448px;
+}
+i.i1376:before {
+  background-position: -912px -2448px;
+}
+i.i1377:before {
+  background-position: -960px -2448px;
+}
+i.i1378:before {
+  background-position: -1008px -2448px;
+}
+i.i1379:before {
+  background-position: -1056px -2448px;
+}
+i.i1380:before {
+  background-position: -1104px -2448px;
+}
+i.i1381:before {
+  background-position: -1152px -2448px;
+}
+i.i1382:before {
+  background-position: -1200px -2448px;
+}
+i.i1383:before {
+  background-position: -1248px -2448px;
+}
+i.i1384:before {
+  background-position: -1296px -2448px;
+}
+i.i1385:before {
+  background-position: -1344px -2448px;
+}
+i.i1386:before {
+  background-position: -1392px -2448px;
+}
+i.i1387:before {
+  background-position: -0 -2496px;
+}
+i.i1388:before {
+  background-position: -48px -2496px;
+}
+i.i1389:before {
+  background-position: -96px -2496px;
+}
+i.i1390:before {
+  background-position: -144px -2496px;
+}
+i.i1391:before {
+  background-position: -192px -2496px;
+}
+i.i1392:before {
+  background-position: -240px -2496px;
+}
+i.i1393:before {
+  background-position: -288px -2496px;
+}
+i.i1394:before {
+  background-position: -336px -2496px;
+}
+i.i1395:before {
+  background-position: -384px -2496px;
+}
+i.i1396:before {
+  background-position: -432px -2496px;
+}
+i.i1397:before {
+  background-position: -480px -2496px;
+}
+i.i1398:before {
+  background-position: -528px -2496px;
+}
+i.i1399:before {
+  background-position: -576px -2496px;
+}
+i.i1400:before {
+  background-position: -624px -2496px;
+}
+i.i1401:before {
+  background-position: -672px -2496px;
+}
+i.i1402:before {
+  background-position: -720px -2496px;
+}
+i.i1403:before {
+  background-position: -768px -2496px;
+}
+i.i1404:before {
+  background-position: -816px -2496px;
+}
+i.i1405:before {
+  background-position: -864px -2496px;
+}
+i.i1406:before {
+  background-position: -912px -2496px;
+}
+i.i1407:before {
+  background-position: -960px -2496px;
+}
+i.i1408:before {
+  background-position: -1008px -2496px;
+}
+i.i1409:before {
+  background-position: -1056px -2496px;
+}
+i.i1410:before {
+  background-position: -1104px -2496px;
+}
+i.i1411:before {
+  background-position: -1152px -2496px;
+}
+i.i1412:before {
+  background-position: -1200px -2496px;
+}
+i.i1413:before {
+  background-position: -1248px -2496px;
+}
+i.i1414:before {
+  background-position: -1296px -2496px;
+}
+i.i1415:before {
+  background-position: -1344px -2496px;
+}
+i.i1416:before {
+  background-position: -1392px -2496px;
+}
+i.i1417:before {
+  background-position: -0 -2544px;
+}
+i.i1418:before {
+  background-position: -48px -2544px;
+}
+i.i1419:before {
+  background-position: -96px -2544px;
+}
+i.i1420:before {
+  background-position: -144px -2544px;
+}
+i.i1421:before {
+  background-position: -192px -2544px;
+}
+i.i1422:before {
+  background-position: -240px -2544px;
+}
+i.i1423:before {
+  background-position: -288px -2544px;
+}
+i.i1424:before {
+  background-position: -336px -2544px;
+}
+i.i1425:before {
+  background-position: -384px -2544px;
+}
+i.i1426:before {
+  background-position: -432px -2544px;
+}
+i.i1427:before {
+  background-position: -480px -2544px;
+}
+i.i1428:before {
+  background-position: -528px -2544px;
+}
+i.i1429:before {
+  background-position: -576px -2544px;
+}
+i.i1430:before {
+  background-position: -624px -2544px;
+}
+i.i1431:before {
+  background-position: -672px -2544px;
+}
+i.i1432:before {
+  background-position: -720px -2544px;
+}
+i.i1433:before {
+  background-position: -768px -2544px;
+}
+i.i1434:before {
+  background-position: -816px -2544px;
+}
+i.i1435:before {
+  background-position: -864px -2544px;
+}
+i.i1436:before {
+  background-position: -912px -2544px;
+}
+i.i1437:before {
+  background-position: -960px -2544px;
+}
+i.i1438:before {
+  background-position: -1008px -2544px;
+}
+i.i1439:before {
+  background-position: -1056px -2544px;
+}
+i.i1440:before {
+  background-position: -1104px -2544px;
+}
+i.i1441:before {
+  background-position: -1152px -2544px;
+}
+i.i1442:before {
+  background-position: -1200px -2544px;
+}
+i.i1443:before {
+  background-position: -1248px -2544px;
+}
+i.i1444:before {
+  background-position: -1296px -2544px;
+}
+i.i1445:before {
+  background-position: -1344px -2544px;
+}
+i.i1446:before {
+  background-position: -1392px -2544px;
+}
+i.i1447:before {
+  background-position: -0 -2592px;
+}
+i.i1448:before {
+  background-position: -48px -2592px;
+}
+i.i1449:before {
+  background-position: -96px -2592px;
+}
+i.i1450:before {
+  background-position: -144px -2592px;
+}
+i.i1451:before {
+  background-position: -192px -2592px;
+}
+i.i1452:before {
+  background-position: -240px -2592px;
+}
+i.i1453:before {
+  background-position: -288px -2592px;
+}
+i.i1454:before {
+  background-position: -336px -2592px;
+}
+i.i1455:before {
+  background-position: -384px -2592px;
+}
+i.i1456:before {
+  background-position: -432px -2592px;
+}
+i.i1457:before {
+  background-position: -480px -2592px;
+}
+i.i1458:before {
+  background-position: -528px -2592px;
+}
+i.i1459:before {
+  background-position: -576px -2592px;
+}
+i.i1460:before {
+  background-position: -624px -2592px;
+}
+i.i1461:before {
+  background-position: -672px -2592px;
+}
+i.i1462:before {
+  background-position: -720px -2592px;
+}
+i.i1463:before {
+  background-position: -768px -2592px;
+}
+i.i1464:before {
+  background-position: -816px -2592px;
+}
+i.i1465:before {
+  background-position: -864px -2592px;
+}
+i.i1466:before {
+  background-position: -912px -2592px;
+}
+i.i1467:before {
+  background-position: -960px -2592px;
+}
+i.i1468:before {
+  background-position: -1008px -2592px;
+}
+i.i1469:before {
+  background-position: -1056px -2592px;
+}
+i.i1470:before {
+  background-position: -1104px -2592px;
+}
+i.i1471:before {
+  background-position: -1152px -2592px;
+}
+i.i1472:before {
+  background-position: -1200px -2592px;
+}
+i.i1473:before {
+  background-position: -1248px -2592px;
+}
+i.i1474:before {
+  background-position: -1296px -2592px;
+}
+i.i1475:before {
+  background-position: -1344px -2592px;
+}
+i.i1476:before {
+  background-position: -1392px -2592px;
+}
+i.i1477:before {
+  background-position: -0 -2640px;
+}
+i.i1478:before {
+  background-position: -48px -2640px;
+}
+i.i1479:before {
+  background-position: -96px -2640px;
+}
+i.i1480:before {
+  background-position: -144px -2640px;
+}
+i.i1481:before {
+  background-position: -192px -2640px;
+}
+i.i1482:before {
+  background-position: -240px -2640px;
+}
+i.i1483:before {
+  background-position: -288px -2640px;
+}
+i.i1484:before {
+  background-position: -336px -2640px;
+}
+i.i1485:before {
+  background-position: -384px -2640px;
+}
+i.i1486:before {
+  background-position: -432px -2640px;
+}
+i.i1487:before {
+  background-position: -480px -2640px;
+}
+i.i1488:before {
+  background-position: -528px -2640px;
+}
+i.i1489:before {
+  background-position: -576px -2640px;
+}
+i.i1490:before {
+  background-position: -624px -2640px;
+}
+i.i1491:before {
+  background-position: -672px -2640px;
+}
+i.i1492:before {
+  background-position: -720px -2640px;
+}
+i.i1493:before {
+  background-position: -768px -2640px;
+}
+i.i1494:before {
+  background-position: -816px -2640px;
+}
+i.i1495:before {
+  background-position: -864px -2640px;
+}
+i.i1496:before {
+  background-position: -912px -2640px;
+}
+i.i1497:before {
+  background-position: -960px -2640px;
+}
+i.i1498:before {
+  background-position: -1008px -2640px;
+}
+i.i1499:before {
+  background-position: -1056px -2640px;
+}
+i.i1500:before {
+  background-position: -1104px -2640px;
+}
+i.i1501:before {
+  background-position: -1152px -2640px;
+}
+i.i1502:before {
+  background-position: -1200px -2640px;
+}
+i.i1503:before {
+  background-position: -1248px -2640px;
+}
+i.i1504:before {
+  background-position: -1296px -2640px;
+}
+.blocks-app__categories {
+  margin-bottom: 10px;
+  clear: both;
+}
+.blocks-app__category {
+  border-bottom: dashed 1px;
+  margin-right: 7px;
+  color: #5791be;
+  cursor: pointer;
+  display: inline-block;
+}
+.blocks-app__category_active {
+  border: 0;
+}
+.blocks-app__items {
+  width: 100%;
+  height: 670px;
+  overflow-y: scroll;
+}
+.blocks-app__item {
+  display: inline-block;
+  overflow: hidden;
+  padding: 5px 0;
+  width: 33%;
+}
+.blocks-app__item i {
+  float: left;
+  cursor: pointer;
+  margin-right: 5px;
+  width: 48px;
+  height: 48px;
+  display: inline-block;
+  position: relative;
+}
+.blocks-app__item i:hover:after {
+  width: 39px;
+  height: 39px;
+  top: 5px;
+  left: 5px;
+  position: absolute;
+  content: '';
+  background: url('../js/blocks/1.15/copy.png') no-repeat;
+}
+.blocks-app__item-name {
+  height: 18px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  margin-top: 5px;
+  cursor: default;
+}
+.blocks-app__item-id {
+  color: #646464;
+  height: 18px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.blocks-app__item-id span {
+  cursor: pointer;
+}
+.blocks-app__item-id span:hover {
+  color: #9b9898;
+}
+.blocks-app__search {
+  background-color: #232323;
+  border: 1px solid #323232;
+  box-sizing: border-box;
+  color: #d8d8d8;
+  font-family: Tahoma, 'Arial sans-serif';
+  font-size: 12px;
+  padding: 4px;
+  resize: none;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.blocks-app__search[placeholder] {
+  font-style: italic;
+  color: #b1b1b1;
+}
+.blocks-app__search::-moz-placeholder {
+  font-style: italic;
+  color: #b1b1b1;
+}
+.blocks-app__search:-moz-placeholder {
+  font-style: italic;
+  color: #b1b1b1;
+}
+.blocks-app__search:-ms-input-placeholder {
+  font-style: italic;
+  color: #b1b1b1;
+}
+.blocks-app .vb > .vb-dragger {
+  z-index: 5;
+  width: 12px;
+  right: 0;
+}
+.blocks-app .vb > .vb-dragger > .vb-dragger-styler {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: rotate3d(0, 0, 0, 0);
+  transform: rotate3d(0, 0, 0, 0);
+  -webkit-transition: background-color 100ms ease-out, margin 100ms ease-out, height 100ms ease-out;
+  transition: background-color 100ms ease-out, margin 100ms ease-out, height 100ms ease-out;
+  background-color: rgba(68, 68, 68, 0.91);
+  margin: 5px 5px 5px 0;
+  border-radius: 20px;
+  height: calc(100% - 10px);
+  display: block;
+}
+.blocks-app .vb.vb-scrolling-phantom > .vb-dragger > .vb-dragger-styler {
+  background-color: #6f6f6f;
+}
+.blocks-app .vb > .vb-dragger:hover > .vb-dragger-styler {
+  background-color: #6f6f6f;
+}
+.blocks-app .vb.vb-dragging > .vb-dragger > .vb-dragger-styler {
+  background-color: #6f6f6f;
+}
+.blocks-app .vb.vb-dragging-phantom > .vb-dragger > .vb-dragger-styler {
+  background-color: #6f6f6f;
+}
+.blocks-app .vb .vb-content {
+  padding-right: 10px;
+}
+.blocks-app_mobile .blocks-app__search {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+}
+.blocks-app_mobile .vb > .vb-dragger {
+  z-index: 5;
+  width: 12px;
+  right: 0;
+}
+.blocks-app_mobile .vb > .vb-dragger > .vb-dragger-styler {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: rotate3d(0, 0, 0, 0);
+  transform: rotate3d(0, 0, 0, 0);
+  -webkit-transition: background-color 100ms ease-out, margin 100ms ease-out, height 100ms ease-out;
+  transition: background-color 100ms ease-out, margin 100ms ease-out, height 100ms ease-out;
+  background-color: rgba(68, 68, 68, 0.18);
+  margin: 5px 5px 5px 0;
+  border-radius: 20px;
+  height: calc(100% - 10px);
+  display: block;
+}
+.blocks-app_mobile .vb.vb-scrolling-phantom > .vb-dragger > .vb-dragger-styler {
+  background-color: #b3b3b3;
+}
+.blocks-app_mobile .vb > .vb-dragger:hover > .vb-dragger-styler {
+  background-color: #b3b3b3;
+}
+.blocks-app_mobile .vb.vb-dragging > .vb-dragger > .vb-dragger-styler {
+  background-color: #b3b3b3;
+}
+.blocks-app_mobile .vb.vb-dragging-phantom > .vb-dragger > .vb-dragger-styler {
+  background-color: #b3b3b3;
+}
+.blocks-app_mobile .vb .vb-content {
+  padding-right: 10px;
+}
+@media only screen and (max-width: 805px) {
+  .blocks-app__item {
+    width: 50%;
+  }
+}
+@media only screen and (max-width: 430px) {
+  .blocks-app_mobile .blocks-app__categories {
+    margin-bottom: 0;
+  }
+  .blocks-app_mobile .blocks-app__category {
+    margin-bottom: 10px;
+  }
+  .blocks-app__item {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .blocks-app__item {
+    width: 100%;
+  }
+}
+[v-cloak] {
+  display: none;
+}

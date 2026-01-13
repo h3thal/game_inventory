@@ -1,0 +1,11 @@
+[
+  {"key": "1", "name": "Золотой слиток", "icon": "i908", "maxStack": 64, "count": 10 },
+  { "key": "2", "name": "Камень", "icon": "i1", "maxStack": 64, "count": 5 },
+  { "key": "3", "name": "Алмазный меч", "icon": "i936", "maxStack": 1, "count": 1 },
+  { "key": "4", "name": "Еловое бревно", "icon": "i135", "maxStack": 64, "count": 20 },
+  { "key": "5", "name": "Дубовое бревно", "icon": "i134", "maxStack": 64, "count": 20 },
+  { "key": "6", "name": "Факел", "icon": "i322", "maxStack": 64, "count": 50 },
+  { "key": "7", "name": "Верстак", "icon": "i332", "maxStack": 1, "count": 1 },
+  { "key": "8", "name": "Печь", "icon": "i334", "maxStack": 1, "count": 1 },
+  { "key": "9", "name": "Костёр", "icon": "i1375", "maxStack": 1, "count": 1 }
+]
