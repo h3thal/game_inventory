@@ -33,9 +33,8 @@ const itemsStore = useItemsStore();
 const { items } = storeToRefs(itemsStore);
 
 const totalWeight = computed(() => {
-  console.log(items.value);
+  if (!items.value.length) return '0 г';
   const weight = items.value.reduce((acc, item) => acc + item.weight * item.count, 0);
-  console.log('Total weight:', weight);
 
   if (weight < 1500) {
     return weight + ' г';
