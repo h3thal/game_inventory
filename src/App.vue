@@ -3,7 +3,7 @@
     <div class="bg-slate-900 text-slate-100 rounded-xl border border-slate-800">
       <h1 class="text-2xl font-bold px-4 py-3 text-center">Game Inventory</h1>
     </div>
-    <div class="flex flex-col md:flex-row flex-1 gap-4 mt-4">
+    <div class="flex flex-col flex-1 gap-4 mt-4">
       <Inventory />
     </div>
   </div>

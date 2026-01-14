@@ -15,6 +15,7 @@
     items-start
     auto-rows-min
     p-4
+    relative
   ">
     <Item
       v-for="(item, index) in items" :key="item.key"
@@ -26,11 +27,13 @@
       @decrement="itemsStore.decrementItemCount(index)"
       @delete="itemsStore.deleteItem(index)"
     />
+    <WeightSummary />
   </div>
 </template>
 
 <script setup lang="ts">
 import Item from './Item.vue';
+import WeightSummary from './WeightSummary.vue';
 import { useItemsStore } from '../store/items';
 import { storeToRefs } from 'pinia';
 

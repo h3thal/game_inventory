@@ -4,4 +4,5 @@ export type Item = {
   icon: string;
   maxStack: number;
   count: number;
+  weight: number;
 }

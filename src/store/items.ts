@@ -56,5 +56,5 @@ const init = () => {
   }
   saveToLocalStorage();
 }
-return { items, addItem,incrementItemCount, decrementItemCount, deleteItem, deleteItem, init };
+return { items, addItem,incrementItemCount, decrementItemCount, deleteItem, init };
 });
